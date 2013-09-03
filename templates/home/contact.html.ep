@@ -1,0 +1,104 @@
+% layout 'default';
+% title 'Contact us';
+<script type="text/javascript">
+$(document).ready(function() {
+   $('#findbutton').localScroll({duration:800});
+});
+</script>
+<div class="container">
+	<div class="row">
+		<div class="col-lg-6 text-left textarea">
+			<h1> <%== $message %> </h1>
+		</div>
+	</div>
+</div>
+<div class="row marketing">
+	<div class="container">
+		<div class="col-lg-6">
+<form class="form-horizontal">
+<fieldset>
+
+<!-- Form Name -->
+<h3>Drop us a message</h3>
+
+<!-- Text input-->
+<div class="control-group">
+  <label class="control-label" for="Forename">Forename</label>
+  <div class="controls">
+    <input id="Forename" name="Forename" placeholder="Joe" class="input-xlarge" type="text">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="control-group">
+  <label class="control-label" for="Surname">Surname</label>
+  <div class="controls">
+    <input id="Surname" name="Surname" placeholder="Bloggs" class="input-xlarge" type="text">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="control-group">
+  <label class="control-label" for="Phone">Phone</label>
+  <div class="controls">
+    <input id="Phone" name="Phone" placeholder="(+44) 07834177491" class="input-xlarge" type="text">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="control-group">
+  <label class="control-label" for="Email">Email</label>
+  <div class="controls">
+    <input id="Email" name="Email" placeholder="joa@bloggs.com" class="input-xlarge" type="text">
+    
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="control-group">
+  <label class="control-label" for="Message">Message</label>
+  <div class="controls">                     
+    <textarea id="Message" name="Message"></textarea>
+  </div>
+</div>
+
+<!-- Button -->
+<div class="control-group">
+  <label class="control-label" for="send"></label>
+  <div class="controls">
+    <button id="send" name="send" class="btn btn-primary">Send</button>
+  </div>
+</div>
+
+</fieldset>
+</form>
+
+</div>
+<div class="col-lg-6">
+<h3>Call us</h3>
+<i class="icon-phone icon-large"></i> +33001101010110
+<br>
+<i class="icon-mobile-phone icon-large"></i> +3313242345235
+<hr>
+<h3>Email us</h3>
+</div>
+</div>
+</div>
+<!-- /container -->
+<!-- Example row of columns -->
+<div class="row text-center">
+	<br>
+</div>
+
+
+<div class="container">
+	<div class="footer text-muted">
+		<p>
+			&copy; Descrybe 2013
+		</p>
+	</div>
+</div>
+
