@@ -1,0 +1,75 @@
+% layout 'default';
+% title 'ididascience';
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('#findbutton').localScroll({
+			duration : 800
+		});
+	}); 
+</script>
+
+
+<script>
+	$(document).ready(function() {
+		$('.carousel').carousel();
+	}); 
+</script>
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-12 text-left">
+			<h1> <%== $message %></h1>
+		</div>
+	</div>
+</div>
+
+<div class="row marketing">
+	<div class="container">
+		<div class="col-lg-12 text-center">
+			<h3>To find out more about our excellent facilities simply click below.</h3>
+		</div>
+	</div>
+</div>
+<div class="row text-center">
+	<br>
+</div>
+
+<div class="row marketing">
+	<div class="container">
+		<div class="col-lg-4 text-center">
+		 	<a href="/bedroom"><img class="img-circle" height="250px" src="img/circle_table.jpg"></a>
+		 	<h2>The Bedrooms</h2>
+		</div>
+		<div class="col-lg-4 text-center">
+		 	<a href="/dining"><img class="img-circle" height="250px" src="img/circle_outdoor.jpg"></a>
+		 	<h2>The Dining Room</h2>
+		</div>
+		<div class="col-lg-4 text-center">
+		 	<a href="/living"><img class="img-circle" height="250px" src="img/circle_table.jpg"></a>
+		 	<h2>The Living Room</h2>
+		</div>
+		<div class="col-lg-4 text-center">
+		 	<a href="/garden"><img class="img-circle" height="250px" src="img/circle_grounds.jpg"></a>
+		 	<h2>The Gardens</h2>
+		</div>
+		<div class="col-lg-4 text-center">
+		 	<a href="/bathroom"><img class="img-circle" height="250px" src="img/circle_table.jpg"></a>
+		 	<h2>The Bathrooms</h2>
+		</div>
+		<div class="col-lg-4 text-center">
+		 	<a href="/other"><img class="img-circle" height="250px" src="img/circle_outdoor.jpg"></a>
+		 	<h2>Other Information</h2>
+		</div>
+	</div>
+</div>
+
+<!-- /container -->
+<!-- Example row of columns -->
+<div class="container">
+	<div class="footer text-muted">
+		<p>
+			&copy; Descrybe 2013
+		</p>
+	</div>
+</div>
+
