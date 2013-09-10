@@ -42,6 +42,22 @@
 			<li class="active">
 				<a href="/">Home</a>
 			</li>
+			<li class="dropdown">
+    			<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+      			The Villa <span class="caret"></span>
+    			</a>
+    			<ul class="dropdown-menu">
+    				<li> <a href="/bedroom">Bedrooms</a> </li>
+    				<li> <a href="/living">Living Areas</a> </li>
+    				<li> <a href="/dining">Dining Room</a> </li>
+    				<li> <a href="/bathroom">Bathrooms</a> </li>
+    				<li> <a href="/garden">Garden</a> </li>
+    				<li> <a href="/other">Other</a> </li>
+    			</ul>
+  			</li>
+			<li>
+				<a href="/area">Area</a>
+			</li>
 			<li>
 				<a href="/gallery">Gallery</a>
 			</li>

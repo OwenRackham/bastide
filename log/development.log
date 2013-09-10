@@ -898,3 +898,794 @@
 [Tue Sep  3 21:56:34 2013] [debug] Rendering template "home/gallery.html.ep".
 [Tue Sep  3 21:56:34 2013] [debug] Rendering cached template "layouts/default.html.ep".
 [Tue Sep  3 21:56:34 2013] [debug] 200 OK (0.029602s, 33.782/s).
+[Tue Sep  3 22:01:31 2013] [debug] GET "/".
+[Tue Sep  3 22:01:31 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep  3 22:01:31 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep  3 22:01:31 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep  3 22:01:31 2013] [debug] 200 OK (0.001076s, 929.368/s).
+[Tue Sep  3 22:01:39 2013] [debug] GET "/gallery".
+[Tue Sep  3 22:01:39 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep  3 22:01:39 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep  3 22:01:39 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep  3 22:01:39 2013] [debug] 200 OK (0.001532s, 652.742/s).
+[Tue Sep  3 22:01:41 2013] [debug] GET "/contact".
+[Tue Sep  3 22:01:41 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep  3 22:01:41 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep  3 22:01:41 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep  3 22:01:41 2013] [debug] 200 OK (0.008448s, 118.371/s).
+[Tue Sep  3 22:01:46 2013] [debug] GET "/".
+[Tue Sep  3 22:01:46 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep  3 22:01:46 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep  3 22:01:46 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep  3 22:01:46 2013] [debug] 200 OK (0.001633s, 612.370/s).
+[Tue Sep  3 22:05:01 2013] [debug] GET "/gallery".
+[Tue Sep  3 22:05:01 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep  3 22:05:01 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep  3 22:05:01 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep  3 22:05:01 2013] [debug] 200 OK (0.001586s, 630.517/s).
+[Tue Sep  3 22:05:13 2013] [debug] GET "/contact".
+[Tue Sep  3 22:05:13 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep  3 22:05:13 2013] [debug] Rendering cached template "home/contact.html.ep".
+[Tue Sep  3 22:05:13 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep  3 22:05:13 2013] [debug] 200 OK (0.001422s, 703.235/s).
+[Tue Sep  3 22:05:23 2013] [debug] GET "/".
+[Tue Sep  3 22:05:23 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep  3 22:05:23 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep  3 22:05:23 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep  3 22:05:23 2013] [debug] 200 OK (0.001354s, 738.552/s).
+[Tue Sep  3 22:06:52 2013] [debug] GET "/gallery".
+[Tue Sep  3 22:06:52 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep  3 22:06:52 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep  3 22:06:52 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep  3 22:06:52 2013] [debug] 200 OK (0.001735s, 576.369/s).
+[Tue Sep  3 22:07:11 2013] [debug] GET "/".
+[Tue Sep  3 22:07:11 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep  3 22:07:11 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep  3 22:07:11 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep  3 22:07:11 2013] [debug] 200 OK (0.001099s, 909.918/s).
+[Wed Sep  4 19:20:50 2013] [debug] GET "/gallery".
+[Wed Sep  4 19:20:50 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Wed Sep  4 19:20:50 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Wed Sep  4 19:20:50 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep  4 19:20:50 2013] [debug] 200 OK (0.002453s, 407.664/s).
+[Wed Sep  4 19:20:52 2013] [debug] GET "/contact".
+[Wed Sep  4 19:20:52 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Wed Sep  4 19:20:52 2013] [debug] Rendering cached template "home/contact.html.ep".
+[Wed Sep  4 19:20:52 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep  4 19:20:52 2013] [debug] 200 OK (0.001108s, 902.527/s).
+[Wed Sep  4 19:20:54 2013] [debug] GET "/".
+[Wed Sep  4 19:20:54 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Wed Sep  4 19:20:54 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Wed Sep  4 19:20:54 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep  4 19:20:54 2013] [debug] 200 OK (0.001104s, 905.797/s).
+[Tue Sep 10 18:52:31 2013] [info] Listening at "http://*:3000".
+[Tue Sep 10 18:52:46 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 18:52:46 2013] [debug] GET "/".
+[Tue Sep 10 18:52:46 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 18:52:46 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 10 18:52:46 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 18:52:46 2013] [debug] 200 OK (0.026021s, 38.430/s).
+[Tue Sep 10 18:58:09 2013] [info] Listening at "http://*:3000".
+[Tue Sep 10 18:59:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 18:59:04 2013] [debug] GET "/".
+[Tue Sep 10 18:59:04 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 18:59:04 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 10 18:59:04 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 18:59:04 2013] [debug] 200 OK (0.027266s, 36.676/s).
+[Tue Sep 10 18:59:07 2013] [debug] GET "/villa".
+[Tue Sep 10 18:59:07 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 18:59:07 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 18:59:07 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 18:59:07 2013] [debug] 200 OK (0.025640s, 39.002/s).
+[Tue Sep 10 18:59:10 2013] [debug] GET "/area".
+[Tue Sep 10 18:59:10 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 18:59:10 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 18:59:10 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 18:59:10 2013] [debug] 200 OK (0.031421s, 31.826/s).
+[Tue Sep 10 18:59:14 2013] [debug] GET "/gallery".
+[Tue Sep 10 18:59:14 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 10 18:59:14 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 10 18:59:14 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 18:59:14 2013] [debug] 200 OK (0.040001s, 24.999/s).
+[Tue Sep 10 18:59:18 2013] [debug] GET "/villa".
+[Tue Sep 10 18:59:18 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 18:59:18 2013] [debug] Rendering cached template "home/villa.html.ep".
+[Tue Sep 10 18:59:18 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 18:59:18 2013] [debug] 200 OK (0.002103s, 475.511/s).
+[Tue Sep 10 18:59:22 2013] [debug] GET "/area".
+[Tue Sep 10 18:59:22 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 18:59:22 2013] [debug] Rendering cached template "home/area.html.ep".
+[Tue Sep 10 18:59:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 18:59:22 2013] [debug] 200 OK (0.001793s, 557.724/s).
+[Tue Sep 10 18:59:23 2013] [debug] GET "/gallery".
+[Tue Sep 10 18:59:23 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 10 18:59:23 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep 10 18:59:23 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 18:59:23 2013] [debug] 200 OK (0.001737s, 575.705/s).
+[Tue Sep 10 18:59:25 2013] [debug] GET "/villa".
+[Tue Sep 10 18:59:25 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 18:59:25 2013] [debug] Rendering cached template "home/villa.html.ep".
+[Tue Sep 10 18:59:25 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 18:59:25 2013] [debug] 200 OK (0.002264s, 441.696/s).
+[Tue Sep 10 18:59:29 2013] [debug] GET "/gallery".
+[Tue Sep 10 18:59:29 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 10 18:59:29 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep 10 18:59:29 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 18:59:29 2013] [debug] 200 OK (0.001820s, 549.451/s).
+[Tue Sep 10 19:00:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:00:04 2013] [debug] GET "/gallery".
+[Tue Sep 10 19:00:04 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 10 19:00:04 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 10 19:00:04 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:00:04 2013] [debug] 200 OK (0.045513s, 21.972/s).
+[Tue Sep 10 19:00:08 2013] [debug] GET "/villa".
+[Tue Sep 10 19:00:08 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:00:08 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:00:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 19:00:08 2013] [debug] 200 OK (0.025938s, 38.553/s).
+[Tue Sep 10 19:02:00 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:02:00 2013] [debug] GET "/area".
+[Tue Sep 10 19:02:00 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 19:02:00 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 19:02:00 2013] [debug] 200 OK (0.014011s, 71.372/s).
+[Tue Sep 10 19:02:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:02:31 2013] [debug] GET "/area".
+[Tue Sep 10 19:02:31 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 19:02:31 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 19:02:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:02:31 2013] [debug] 200 OK (0.027302s, 36.627/s).
+[Tue Sep 10 19:03:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:03:48 2013] [debug] GET "/area".
+[Tue Sep 10 19:03:48 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 19:03:48 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 19:03:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:03:48 2013] [debug] 200 OK (0.022656s, 44.138/s).
+[Tue Sep 10 19:04:40 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:04:40 2013] [debug] GET "/area".
+[Tue Sep 10 19:04:40 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 19:04:40 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 19:04:40 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:04:40 2013] [debug] 200 OK (0.022474s, 44.496/s).
+[Tue Sep 10 19:05:22 2013] [debug] GET "/villa".
+[Tue Sep 10 19:05:22 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:05:22 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:05:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 19:05:22 2013] [debug] 200 OK (0.029987s, 33.348/s).
+[Tue Sep 10 19:09:30 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:09:30 2013] [debug] GET "/villa".
+[Tue Sep 10 19:09:30 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:09:30 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:09:30 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:09:30 2013] [debug] 200 OK (0.037520s, 26.652/s).
+[Tue Sep 10 19:11:52 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:11:52 2013] [debug] GET "/villa".
+[Tue Sep 10 19:11:52 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:11:52 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:11:52 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:11:52 2013] [debug] 200 OK (0.040729s, 24.553/s).
+[Tue Sep 10 19:13:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:13:56 2013] [debug] GET "/villa".
+[Tue Sep 10 19:13:56 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:13:56 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:13:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:13:56 2013] [debug] 200 OK (0.047109s, 21.227/s).
+[Tue Sep 10 19:14:10 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:14:10 2013] [debug] GET "/villa".
+[Tue Sep 10 19:14:10 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:14:10 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:14:10 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:14:10 2013] [debug] 200 OK (0.045507s, 21.975/s).
+[Tue Sep 10 19:15:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:15:07 2013] [debug] GET "/villa".
+[Tue Sep 10 19:15:07 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:15:07 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:15:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:15:07 2013] [debug] 200 OK (0.039805s, 25.122/s).
+[Tue Sep 10 19:16:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:16:15 2013] [debug] GET "/villa".
+[Tue Sep 10 19:16:15 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:16:15 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:16:15 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:16:15 2013] [debug] 200 OK (0.040384s, 24.762/s).
+[Tue Sep 10 19:16:17 2013] [debug] GET "/villa".
+[Tue Sep 10 19:16:17 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:16:17 2013] [debug] Rendering cached template "home/villa.html.ep".
+[Tue Sep 10 19:16:17 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 19:16:17 2013] [debug] 200 OK (0.002164s, 462.107/s).
+[Tue Sep 10 19:16:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:16:35 2013] [debug] GET "/villa".
+[Tue Sep 10 19:16:35 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:16:35 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:16:35 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:16:35 2013] [debug] 200 OK (0.045102s, 22.172/s).
+[Tue Sep 10 19:17:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:17:53 2013] [debug] GET "/villa".
+[Tue Sep 10 19:17:53 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:17:53 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:17:53 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:17:53 2013] [debug] 200 OK (0.047913s, 20.871/s).
+[Tue Sep 10 19:18:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:18:01 2013] [debug] GET "/villa".
+[Tue Sep 10 19:18:01 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:18:01 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:18:01 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:18:01 2013] [debug] 200 OK (0.043163s, 23.168/s).
+[Tue Sep 10 19:20:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:20:04 2013] [debug] GET "/villa".
+[Tue Sep 10 19:20:04 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:20:04 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:20:04 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:20:04 2013] [debug] 200 OK (0.017365s, 57.587/s).
+[Tue Sep 10 19:20:43 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:20:43 2013] [debug] GET "/villa".
+[Tue Sep 10 19:20:43 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:20:43 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:20:43 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:20:43 2013] [debug] 200 OK (0.025269s, 39.574/s).
+[Tue Sep 10 19:21:43 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:21:43 2013] [debug] GET "/villa".
+[Tue Sep 10 19:21:43 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:21:43 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:21:43 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:21:43 2013] [debug] 200 OK (0.025037s, 39.941/s).
+[Tue Sep 10 19:22:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:22:57 2013] [debug] GET "/villa".
+[Tue Sep 10 19:22:57 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:22:57 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:22:57 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:22:57 2013] [debug] 200 OK (0.021109s, 47.373/s).
+[Tue Sep 10 19:25:27 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:25:27 2013] [debug] GET "/villa".
+[Tue Sep 10 19:25:27 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:25:27 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:25:27 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:25:27 2013] [debug] 200 OK (0.018770s, 53.277/s).
+[Tue Sep 10 19:27:51 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:27:51 2013] [debug] GET "/villa".
+[Tue Sep 10 19:27:51 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:27:51 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:27:51 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:27:51 2013] [debug] 200 OK (0.024181s, 41.355/s).
+[Tue Sep 10 19:28:10 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:28:10 2013] [debug] GET "/villa".
+[Tue Sep 10 19:28:10 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:28:10 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:28:10 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:28:10 2013] [debug] 200 OK (0.018796s, 53.203/s).
+[Tue Sep 10 19:29:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:29:48 2013] [debug] GET "/villa".
+[Tue Sep 10 19:29:48 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:29:48 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:29:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:29:48 2013] [debug] 200 OK (0.022956s, 43.562/s).
+[Tue Sep 10 19:32:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:32:44 2013] [debug] GET "/villa".
+[Tue Sep 10 19:32:44 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:32:44 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:32:44 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:32:44 2013] [debug] 200 OK (0.025987s, 38.481/s).
+[Tue Sep 10 19:35:16 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:35:16 2013] [debug] GET "/villa".
+[Tue Sep 10 19:35:16 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:35:16 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:35:16 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:35:16 2013] [debug] 200 OK (0.021479s, 46.557/s).
+[Tue Sep 10 19:53:20 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:53:20 2013] [debug] GET "/villa".
+[Tue Sep 10 19:53:20 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 19:53:20 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 19:53:20 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:53:20 2013] [debug] 200 OK (0.021405s, 46.718/s).
+[Tue Sep 10 19:53:25 2013] [debug] GET "/bedroom".
+[Tue Sep 10 19:53:25 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 19:53:25 2013] [debug] Action not found in controller.
+[Tue Sep 10 19:53:25 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 19:53:26 2013] [error] Global symbol "$message" requires explicit package name at template home/bedroom.html.ep line 21.
+16: </script>
+17: 
+18: <div class="container">
+19: 	<div class="row">
+20: 		<div class="col-lg-12 text-left">
+21: 			<h1> <%== $message %></h1>
+22: 		</div>
+23: 	</div>
+24: </div>
+25: <div class="row marketing">
+26: 	<div class="container">
+
+[Tue Sep 10 19:53:26 2013] [debug] Template "exception.development.html.ep" not found.
+[Tue Sep 10 19:53:26 2013] [debug] Template "exception.html.ep" not found.
+[Tue Sep 10 19:53:26 2013] [debug] Rendering inline template.
+[Tue Sep 10 19:53:26 2013] [debug] Rendering inline template.
+[Tue Sep 10 19:53:26 2013] [debug] 500 Internal Server Error (0.811482s, 1.232/s).
+[Tue Sep 10 19:54:00 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 19:54:00 2013] [debug] GET "/bedroom".
+[Tue Sep 10 19:54:00 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 19:54:00 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 19:54:01 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 19:54:01 2013] [debug] 200 OK (0.045487s, 21.984/s).
+[Tue Sep 10 20:00:06 2013] [debug] GET "/".
+[Tue Sep 10 20:00:06 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 20:00:06 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 10 20:00:06 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:00:06 2013] [debug] 200 OK (0.013288s, 75.256/s).
+[Tue Sep 10 20:03:19 2013] [debug] GET "/villa".
+[Tue Sep 10 20:03:19 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "villa".
+[Tue Sep 10 20:03:19 2013] [debug] Rendering template "home/villa.html.ep".
+[Tue Sep 10 20:03:19 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:03:19 2013] [debug] 200 OK (0.010595s, 94.384/s).
+[Tue Sep 10 20:04:30 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:04:30 2013] [debug] GET "/gallery".
+[Tue Sep 10 20:04:30 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 10 20:04:30 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 10 20:04:30 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:04:30 2013] [debug] 200 OK (0.041278s, 24.226/s).
+[Tue Sep 10 20:07:08 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:07:08 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:07:08 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:07:08 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:07:08 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:07:08 2013] [debug] 200 OK (0.037441s, 26.709/s).
+[Tue Sep 10 20:08:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:08:29 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:08:29 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:08:29 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:08:29 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:08:29 2013] [debug] 200 OK (0.072457s, 13.801/s).
+[Tue Sep 10 20:11:20 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:11:20 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:11:20 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:11:20 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:11:20 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:11:20 2013] [debug] 200 OK (0.026319s, 37.995/s).
+[Tue Sep 10 20:17:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:17:36 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:17:36 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:17:36 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:17:36 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:17:36 2013] [debug] 200 OK (0.029341s, 34.082/s).
+[Tue Sep 10 20:18:58 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:18:58 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:18:58 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:18:58 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:18:58 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:18:58 2013] [debug] 200 OK (0.028066s, 35.630/s).
+[Tue Sep 10 20:19:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:19:31 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:19:31 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:19:31 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:19:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:19:31 2013] [debug] 200 OK (0.030714s, 32.558/s).
+[Tue Sep 10 20:21:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:21:15 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:21:15 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:21:15 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:21:15 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:21:15 2013] [debug] 200 OK (0.033465s, 29.882/s).
+[Tue Sep 10 20:22:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:22:01 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:22:01 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:22:01 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:22:01 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:22:01 2013] [debug] 200 OK (0.041775s, 23.938/s).
+[Tue Sep 10 20:22:34 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:22:34 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:22:34 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:22:34 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:22:34 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:22:34 2013] [debug] 200 OK (0.027896s, 35.847/s).
+[Tue Sep 10 20:23:51 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:23:51 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:23:51 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:23:51 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:23:51 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:23:51 2013] [debug] 200 OK (0.041186s, 24.280/s).
+[Tue Sep 10 20:25:03 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:25:03 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:25:03 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:25:03 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:25:03 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:25:03 2013] [debug] 200 OK (0.035997s, 27.780/s).
+[Tue Sep 10 20:26:14 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:26:14 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:26:14 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:26:14 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:26:14 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:26:14 2013] [debug] 200 OK (0.034393s, 29.076/s).
+[Tue Sep 10 20:32:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:32:56 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:32:56 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:32:56 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:32:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:32:56 2013] [debug] 200 OK (0.045860s, 21.805/s).
+[Tue Sep 10 20:33:00 2013] [debug] GET "/dining".
+[Tue Sep 10 20:33:00 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "dining".
+[Tue Sep 10 20:33:00 2013] [debug] Rendering template "home/dining.html.ep".
+[Tue Sep 10 20:33:00 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:33:00 2013] [debug] 200 OK (0.019298s, 51.819/s).
+[Tue Sep 10 20:34:17 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:34:17 2013] [debug] GET "/dining".
+[Tue Sep 10 20:34:17 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "dining".
+[Tue Sep 10 20:34:17 2013] [debug] Rendering template "home/dining.html.ep".
+[Tue Sep 10 20:34:17 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:34:17 2013] [debug] 200 OK (0.034340s, 29.121/s).
+[Tue Sep 10 20:34:21 2013] [debug] GET "/bathroom".
+[Tue Sep 10 20:34:21 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bathroom".
+[Tue Sep 10 20:34:21 2013] [debug] Rendering template "home/bathroom.html.ep".
+[Tue Sep 10 20:34:21 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:34:21 2013] [debug] 200 OK (0.022870s, 43.725/s).
+[Tue Sep 10 20:35:50 2013] [debug] GET "/area".
+[Tue Sep 10 20:35:50 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 20:35:50 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 20:35:50 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:35:50 2013] [debug] 200 OK (0.011124s, 89.896/s).
+[Tue Sep 10 20:35:56 2013] [debug] GET "/living".
+[Tue Sep 10 20:35:56 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 10 20:35:56 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 10 20:35:56 2013] [debug] Rendering inline template.
+[Tue Sep 10 20:35:56 2013] [debug] Rendering inline template.
+[Tue Sep 10 20:35:56 2013] [debug] 404 Not Found (0.028923s, 34.575/s).
+[Tue Sep 10 20:36:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:36:56 2013] [debug] GET "/living".
+[Tue Sep 10 20:36:56 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "living".
+[Tue Sep 10 20:36:56 2013] [debug] Action not found in controller.
+[Tue Sep 10 20:36:56 2013] [debug] Rendering template "home/living.html.ep".
+[Tue Sep 10 20:36:56 2013] [error] Global symbol "$message" requires explicit package name at template home/living.html.ep line 20.
+15: </script>
+16: 
+17: <div class="container">
+18: 	<div class="row">
+19: 		<div class="col-lg-12 text-left">
+20: 			<h1> <%== $message %></h1>
+21: 		</div>
+22: 	</div>
+23: </div>
+24: 
+25: <div class="row marketing">
+
+[Tue Sep 10 20:36:56 2013] [debug] Template "exception.development.html.ep" not found.
+[Tue Sep 10 20:36:56 2013] [debug] Template "exception.html.ep" not found.
+[Tue Sep 10 20:36:56 2013] [debug] Rendering inline template.
+[Tue Sep 10 20:36:56 2013] [debug] Rendering inline template.
+[Tue Sep 10 20:36:56 2013] [debug] 500 Internal Server Error (0.061555s, 16.246/s).
+[Tue Sep 10 20:37:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:37:15 2013] [debug] GET "/living".
+[Tue Sep 10 20:37:15 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "living".
+[Tue Sep 10 20:37:15 2013] [debug] Rendering template "home/living.html.ep".
+[Tue Sep 10 20:37:15 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:37:15 2013] [debug] 200 OK (0.034255s, 29.193/s).
+[Tue Sep 10 20:38:41 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:38:41 2013] [debug] GET "/living".
+[Tue Sep 10 20:38:41 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "living".
+[Tue Sep 10 20:38:41 2013] [debug] Rendering template "home/living.html.ep".
+[Tue Sep 10 20:38:41 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:38:41 2013] [debug] 200 OK (0.046166s, 21.661/s).
+[Tue Sep 10 20:38:46 2013] [debug] GET "/garden".
+[Tue Sep 10 20:38:46 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "garden".
+[Tue Sep 10 20:38:46 2013] [debug] Rendering template "home/garden.html.ep".
+[Tue Sep 10 20:38:46 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:38:46 2013] [debug] 200 OK (0.021236s, 47.090/s).
+[Tue Sep 10 20:39:18 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:39:18 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:39:18 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:39:18 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:39:18 2013] [debug] 200 OK (0.020460s, 48.876/s).
+[Tue Sep 10 20:39:19 2013] [debug] GET "/living".
+[Tue Sep 10 20:39:19 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "living".
+[Tue Sep 10 20:39:19 2013] [debug] Rendering cached template "home/living.html.ep".
+[Tue Sep 10 20:39:19 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:39:19 2013] [debug] 200 OK (0.001346s, 742.942/s).
+[Tue Sep 10 20:39:22 2013] [debug] GET "/dining".
+[Tue Sep 10 20:39:22 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "dining".
+[Tue Sep 10 20:39:22 2013] [debug] Rendering template "home/dining.html.ep".
+[Tue Sep 10 20:39:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:39:22 2013] [debug] 200 OK (0.020590s, 48.567/s).
+[Tue Sep 10 20:40:12 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:40:12 2013] [debug] GET "/dining".
+[Tue Sep 10 20:40:12 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "dining".
+[Tue Sep 10 20:40:12 2013] [debug] Rendering template "home/dining.html.ep".
+[Tue Sep 10 20:40:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:40:12 2013] [debug] 200 OK (0.032384s, 30.879/s).
+[Tue Sep 10 20:40:26 2013] [debug] GET "/bathroom".
+[Tue Sep 10 20:40:26 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bathroom".
+[Tue Sep 10 20:40:26 2013] [debug] Rendering template "home/bathroom.html.ep".
+[Tue Sep 10 20:40:26 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:40:26 2013] [debug] 200 OK (0.021078s, 47.443/s).
+[Tue Sep 10 20:40:29 2013] [debug] GET "/bathroom".
+[Tue Sep 10 20:40:29 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bathroom".
+[Tue Sep 10 20:40:29 2013] [debug] Rendering cached template "home/bathroom.html.ep".
+[Tue Sep 10 20:40:29 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:40:29 2013] [debug] 200 OK (0.002388s, 418.760/s).
+[Tue Sep 10 20:40:31 2013] [debug] GET "/garden".
+[Tue Sep 10 20:40:31 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "garden".
+[Tue Sep 10 20:40:31 2013] [debug] Rendering template "home/garden.html.ep".
+[Tue Sep 10 20:40:31 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:40:31 2013] [debug] 200 OK (0.019862s, 50.347/s).
+[Tue Sep 10 20:40:33 2013] [debug] GET "/other".
+[Tue Sep 10 20:40:33 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "other".
+[Tue Sep 10 20:40:33 2013] [debug] Rendering template "home/other.html.ep".
+[Tue Sep 10 20:40:33 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:40:33 2013] [debug] 200 OK (0.025727s, 38.870/s).
+[Tue Sep 10 20:41:22 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:41:22 2013] [debug] GET "/other".
+[Tue Sep 10 20:41:22 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "other".
+[Tue Sep 10 20:41:22 2013] [debug] Rendering template "home/other.html.ep".
+[Tue Sep 10 20:41:22 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:41:22 2013] [debug] 200 OK (0.036698s, 27.249/s).
+[Tue Sep 10 20:41:28 2013] [debug] GET "/".
+[Tue Sep 10 20:41:28 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 20:41:28 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 10 20:41:28 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:41:28 2013] [debug] 200 OK (0.012058s, 82.932/s).
+[Tue Sep 10 20:41:33 2013] [debug] GET "/area".
+[Tue Sep 10 20:41:33 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 20:41:33 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 20:41:33 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:41:33 2013] [debug] 200 OK (0.009604s, 104.123/s).
+[Tue Sep 10 20:41:38 2013] [debug] GET "/".
+[Tue Sep 10 20:41:38 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 20:41:38 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep 10 20:41:38 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:41:38 2013] [debug] 200 OK (0.002992s, 334.225/s).
+[Tue Sep 10 20:41:41 2013] [debug] GET "/area".
+[Tue Sep 10 20:41:41 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 20:41:41 2013] [debug] Rendering cached template "home/area.html.ep".
+[Tue Sep 10 20:41:41 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:41:41 2013] [debug] 200 OK (0.002066s, 484.027/s).
+[Tue Sep 10 20:42:27 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 20:42:27 2013] [debug] GET "/area".
+[Tue Sep 10 20:42:27 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 20:42:27 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 20:42:27 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 20:42:27 2013] [debug] 200 OK (0.029960s, 33.378/s).
+[Tue Sep 10 20:52:30 2013] [debug] GET "/".
+[Tue Sep 10 20:52:30 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 20:52:30 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 10 20:52:30 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:52:30 2013] [debug] 200 OK (0.010395s, 96.200/s).
+[Tue Sep 10 20:52:49 2013] [debug] GET "/bedroom".
+[Tue Sep 10 20:52:49 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 20:52:49 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 20:52:49 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:52:49 2013] [debug] 200 OK (0.025668s, 38.959/s).
+[Tue Sep 10 20:53:09 2013] [debug] GET "/living".
+[Tue Sep 10 20:53:09 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "living".
+[Tue Sep 10 20:53:09 2013] [debug] Rendering template "home/living.html.ep".
+[Tue Sep 10 20:53:09 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:53:09 2013] [debug] 200 OK (0.023139s, 43.217/s).
+[Tue Sep 10 20:53:15 2013] [debug] GET "/bathroom".
+[Tue Sep 10 20:53:15 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bathroom".
+[Tue Sep 10 20:53:15 2013] [debug] Rendering template "home/bathroom.html.ep".
+[Tue Sep 10 20:53:15 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:53:15 2013] [debug] 200 OK (0.021202s, 47.165/s).
+[Tue Sep 10 20:53:28 2013] [debug] GET "/area".
+[Tue Sep 10 20:53:28 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 20:53:28 2013] [debug] Rendering cached template "home/area.html.ep".
+[Tue Sep 10 20:53:28 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:53:28 2013] [debug] 200 OK (0.001578s, 633.714/s).
+[Tue Sep 10 20:53:36 2013] [debug] GET "/gallery".
+[Tue Sep 10 20:53:36 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 10 20:53:36 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 10 20:53:36 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:53:36 2013] [debug] 200 OK (0.029544s, 33.848/s).
+[Tue Sep 10 20:53:50 2013] [debug] GET "/gallery".
+[Tue Sep 10 20:53:50 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 10 20:53:50 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep 10 20:53:50 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:53:50 2013] [debug] 200 OK (0.002355s, 424.628/s).
+[Tue Sep 10 20:53:52 2013] [debug] GET "/contact".
+[Tue Sep 10 20:53:52 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 20:53:52 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 10 20:53:52 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:53:52 2013] [debug] 200 OK (0.010659s, 93.817/s).
+[Tue Sep 10 20:53:55 2013] [debug] GET "/".
+[Tue Sep 10 20:53:55 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 20:53:55 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep 10 20:53:55 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:53:55 2013] [debug] 200 OK (0.002249s, 444.642/s).
+[Tue Sep 10 20:54:00 2013] [debug] GET "/contact".
+[Tue Sep 10 20:54:00 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 20:54:00 2013] [debug] Rendering cached template "home/contact.html.ep".
+[Tue Sep 10 20:54:00 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:54:00 2013] [debug] 200 OK (0.002143s, 466.636/s).
+[Tue Sep 10 20:54:14 2013] [debug] GET "/".
+[Tue Sep 10 20:54:14 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 20:54:14 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep 10 20:54:14 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:54:14 2013] [debug] 200 OK (0.001359s, 735.835/s).
+[Tue Sep 10 20:57:22 2013] [debug] GET "/contact".
+[Tue Sep 10 20:57:22 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 20:57:22 2013] [debug] Rendering cached template "home/contact.html.ep".
+[Tue Sep 10 20:57:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 20:57:22 2013] [debug] 200 OK (0.001254s, 797.448/s).
+[Tue Sep 10 21:02:17 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:02:17 2013] [debug] GET "/contact".
+[Tue Sep 10 21:02:17 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 21:02:17 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 10 21:02:17 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:02:17 2013] [debug] 200 OK (0.020863s, 47.932/s).
+[Tue Sep 10 21:02:34 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:02:34 2013] [debug] GET "/contact".
+[Tue Sep 10 21:02:34 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 21:02:34 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 10 21:02:34 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:02:34 2013] [debug] 200 OK (0.029955s, 33.383/s).
+[Tue Sep 10 21:03:34 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:03:34 2013] [debug] GET "/contact".
+[Tue Sep 10 21:03:34 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 21:03:34 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 10 21:03:34 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:03:34 2013] [debug] 200 OK (0.026624s, 37.560/s).
+[Tue Sep 10 21:11:39 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:11:39 2013] [debug] GET "/area".
+[Tue Sep 10 21:11:39 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 21:11:39 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 21:11:39 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:11:39 2013] [debug] 200 OK (0.022268s, 44.907/s).
+[Tue Sep 10 21:11:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:11:57 2013] [debug] GET "/area".
+[Tue Sep 10 21:11:57 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 21:11:57 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 21:11:57 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:11:57 2013] [debug] 200 OK (0.026523s, 37.703/s).
+[Tue Sep 10 21:12:17 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:12:17 2013] [debug] GET "/area".
+[Tue Sep 10 21:12:17 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 21:12:17 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 21:12:17 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:12:17 2013] [debug] 200 OK (0.025437s, 39.313/s).
+[Tue Sep 10 21:12:37 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:12:37 2013] [debug] GET "/area".
+[Tue Sep 10 21:12:37 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 21:12:37 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 21:12:37 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:12:37 2013] [debug] 200 OK (0.025652s, 38.983/s).
+[Tue Sep 10 21:13:13 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:13:13 2013] [debug] GET "/area".
+[Tue Sep 10 21:13:13 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 21:13:13 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 21:13:13 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:13:13 2013] [debug] 200 OK (0.029341s, 34.082/s).
+[Tue Sep 10 21:13:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:13:28 2013] [debug] GET "/area".
+[Tue Sep 10 21:13:28 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 21:13:28 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 21:13:28 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:13:28 2013] [debug] 200 OK (0.028285s, 35.354/s).
+[Tue Sep 10 21:14:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:14:01 2013] [debug] GET "/area".
+[Tue Sep 10 21:14:01 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 21:14:01 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 21:14:01 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:14:01 2013] [debug] 200 OK (0.023110s, 43.271/s).
+[Tue Sep 10 21:14:47 2013] [debug] GET "/".
+[Tue Sep 10 21:14:47 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 21:14:47 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 10 21:14:47 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 21:14:47 2013] [debug] 200 OK (0.007735s, 129.282/s).
+[Tue Sep 10 21:14:52 2013] [debug] GET "/dining".
+[Tue Sep 10 21:14:52 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "dining".
+[Tue Sep 10 21:14:52 2013] [debug] Rendering template "home/dining.html.ep".
+[Tue Sep 10 21:14:52 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 21:14:52 2013] [debug] 200 OK (0.018319s, 54.588/s).
+[Tue Sep 10 21:14:58 2013] [debug] GET "/area".
+[Tue Sep 10 21:14:58 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 21:14:58 2013] [debug] Rendering cached template "home/area.html.ep".
+[Tue Sep 10 21:14:58 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 21:14:58 2013] [debug] 200 OK (0.002134s, 468.604/s).
+[Tue Sep 10 21:15:04 2013] [debug] GET "/gallery".
+[Tue Sep 10 21:15:04 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 10 21:15:04 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 10 21:15:04 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 21:15:04 2013] [debug] 200 OK (0.032418s, 30.847/s).
+[Tue Sep 10 21:15:35 2013] [debug] GET "/contact".
+[Tue Sep 10 21:15:35 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 21:15:35 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 10 21:15:35 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 21:15:35 2013] [debug] 200 OK (0.011894s, 84.076/s).
+[Tue Sep 10 21:16:14 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:16:14 2013] [debug] GET "/contact".
+[Tue Sep 10 21:16:14 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 21:16:14 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 10 21:16:14 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:16:14 2013] [debug] 200 OK (0.030066s, 33.260/s).
+[Tue Sep 10 21:18:40 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:18:40 2013] [debug] GET "/contact".
+[Tue Sep 10 21:18:40 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 21:18:40 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 10 21:18:40 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:18:40 2013] [debug] 200 OK (0.026289s, 38.039/s).
+[Tue Sep 10 21:19:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:19:44 2013] [debug] GET "/contact".
+[Tue Sep 10 21:19:44 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 21:19:44 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 10 21:19:44 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:19:44 2013] [debug] 200 OK (0.024198s, 41.326/s).
+[Tue Sep 10 21:20:24 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:20:24 2013] [debug] GET "/contact".
+[Tue Sep 10 21:20:24 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 21:20:24 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 10 21:20:24 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:20:24 2013] [debug] 200 OK (0.019822s, 50.449/s).
+[Tue Sep 10 21:20:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:20:42 2013] [debug] GET "/contact".
+[Tue Sep 10 21:20:42 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 21:20:42 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 10 21:20:42 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:20:42 2013] [debug] 200 OK (0.027318s, 36.606/s).
+[Tue Sep 10 21:22:09 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:22:09 2013] [debug] GET "/contact".
+[Tue Sep 10 21:22:09 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 21:22:09 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 10 21:22:09 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:22:09 2013] [debug] 200 OK (0.024036s, 41.604/s).
+[Tue Sep 10 21:22:25 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:22:25 2013] [debug] GET "/contact".
+[Tue Sep 10 21:22:25 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 21:22:25 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 10 21:22:25 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:22:25 2013] [debug] 200 OK (0.024244s, 41.247/s).
+[Tue Sep 10 21:22:38 2013] [debug] GET "/".
+[Tue Sep 10 21:22:38 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 21:22:38 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 10 21:22:38 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 21:22:38 2013] [debug] 200 OK (0.009719s, 102.891/s).
+[Tue Sep 10 21:23:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:23:36 2013] [debug] GET "/".
+[Tue Sep 10 21:23:36 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 21:23:36 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 10 21:23:36 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:23:36 2013] [debug] 200 OK (0.025470s, 39.262/s).
+[Tue Sep 10 21:24:36 2013] [debug] GET "/".
+[Tue Sep 10 21:24:36 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 21:24:36 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep 10 21:24:36 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 21:24:36 2013] [debug] 200 OK (0.001850s, 540.541/s).
+[Tue Sep 10 21:24:59 2013] [debug] GET "/".
+[Tue Sep 10 21:24:59 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 21:24:59 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep 10 21:24:59 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 21:24:59 2013] [debug] 200 OK (0.001649s, 606.428/s).
+[Tue Sep 10 21:25:13 2013] [debug] GET "/".
+[Tue Sep 10 21:25:13 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 21:25:13 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep 10 21:25:13 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 21:25:13 2013] [debug] 200 OK (0.001724s, 580.046/s).
+[Tue Sep 10 21:25:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:25:53 2013] [debug] GET "/".
+[Tue Sep 10 21:25:53 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 10 21:25:53 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 10 21:25:53 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:25:53 2013] [debug] 200 OK (0.026896s, 37.180/s).
+[Tue Sep 10 21:26:01 2013] [debug] GET "/bedroom".
+[Tue Sep 10 21:26:01 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 10 21:26:01 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 10 21:26:01 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 21:26:01 2013] [debug] 200 OK (0.020216s, 49.466/s).
+[Tue Sep 10 21:26:07 2013] [debug] GET "/area".
+[Tue Sep 10 21:26:07 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 10 21:26:07 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 10 21:26:07 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 21:26:07 2013] [debug] 200 OK (0.011981s, 83.465/s).
+[Tue Sep 10 21:26:13 2013] [debug] GET "/gallery".
+[Tue Sep 10 21:26:13 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 10 21:26:13 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 10 21:26:13 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 21:26:13 2013] [debug] 200 OK (0.025456s, 39.283/s).
+[Tue Sep 10 21:27:17 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:27:17 2013] [debug] GET "/gallery".
+[Tue Sep 10 21:27:17 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 10 21:27:17 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 10 21:27:17 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:27:17 2013] [debug] 200 OK (0.039169s, 25.530/s).
+[Tue Sep 10 21:28:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 10 21:28:44 2013] [debug] GET "/gallery".
+[Tue Sep 10 21:28:44 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 10 21:28:44 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 10 21:28:44 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 10 21:28:44 2013] [debug] 200 OK (0.024878s, 40.196/s).
+[Tue Sep 10 21:29:11 2013] [debug] GET "/contact".
+[Tue Sep 10 21:29:11 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 10 21:29:11 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 10 21:29:11 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 10 21:29:11 2013] [debug] 200 OK (0.010698s, 93.475/s).
