@@ -15,12 +15,10 @@ $(document).ready(function() {
 
 <div class="row marketing">
 	<div class="container">
-		<div class="col-lg-12">
+		<div class="col-lg-12 trans">
 			<a id="findout"> </a>
-			<h2>Latest News and Offers</h2>
+			<h4>Please contact us with any questions or queries you may have, and to enquire about availability, tarifs and how to book.</h4>
 			<p>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum			</p>
 		</div>
 	</div>
 </div>
@@ -30,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 </div>
 
 <div class="row marketing">
-	<div class="container">
+	<div class="container trans">
 		<div class="col-lg-6">
 <form class="form-horizontal">
 <fieldset>
@@ -38,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 
 <!-- Form Name -->
-<h3>Drop us a message</h3>
+<h3>Send us a message</h3>
 
 <!-- Text input-->
 <div class="control-group">
@@ -91,7 +89,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     <button id="send" name="send" class="btn btn-primary">Send</button>
   </div>
 </div>
-
+<br>
 </fieldset>
 </form>
 

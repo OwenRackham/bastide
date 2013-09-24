@@ -1689,3 +1689,1560 @@
 [Tue Sep 10 21:29:11 2013] [debug] Rendering template "home/contact.html.ep".
 [Tue Sep 10 21:29:11 2013] [debug] Rendering cached template "layouts/default.html.ep".
 [Tue Sep 10 21:29:11 2013] [debug] 200 OK (0.010698s, 93.475/s).
+[Wed Sep 11 19:00:43 2013] [debug] GET "/".
+[Wed Sep 11 19:00:43 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Wed Sep 11 19:00:43 2013] [debug] Rendering template "home/welcome.html.ep".
+[Wed Sep 11 19:00:43 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 11 19:00:43 2013] [debug] 200 OK (0.055127s, 18.140/s).
+[Thu Sep 12 19:02:31 2013] [debug] GET "/".
+[Thu Sep 12 19:02:31 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Thu Sep 12 19:02:31 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Thu Sep 12 19:02:31 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Sep 12 19:02:31 2013] [debug] 200 OK (0.026284s, 38.046/s).
+[Thu Sep 12 21:36:51 2013] [debug] GET "/".
+[Thu Sep 12 21:36:51 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Thu Sep 12 21:36:51 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Thu Sep 12 21:36:51 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Sep 12 21:36:51 2013] [debug] 200 OK (0.003670s, 272.480/s).
+[Sun Sep 15 16:35:56 2013] [debug] GET "/".
+[Sun Sep 15 16:35:56 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 15 16:35:56 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Sun Sep 15 16:35:56 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 15 16:35:56 2013] [debug] 200 OK (0.030959s, 32.301/s).
+[Sun Sep 15 18:05:56 2013] [debug] GET "/".
+[Sun Sep 15 18:05:56 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 15 18:05:56 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Sun Sep 15 18:05:56 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 15 18:05:56 2013] [debug] 200 OK (0.002694s, 371.195/s).
+[Sun Sep 15 20:57:29 2013] [debug] GET "/".
+[Sun Sep 15 20:57:29 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 15 20:57:29 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Sun Sep 15 20:57:29 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 15 20:57:29 2013] [debug] 200 OK (0.003293s, 303.674/s).
+[Mon Sep 16 19:21:07 2013] [debug] GET "/".
+[Mon Sep 16 19:21:07 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Mon Sep 16 19:21:07 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Mon Sep 16 19:21:07 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Mon Sep 16 19:21:07 2013] [debug] 200 OK (0.002639s, 378.931/s).
+[Mon Sep 16 20:34:47 2013] [debug] GET "/".
+[Mon Sep 16 20:34:47 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Mon Sep 16 20:34:47 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Mon Sep 16 20:34:47 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Mon Sep 16 20:34:47 2013] [debug] 200 OK (0.005835s, 171.380/s).
+[Fri Sep 20 10:06:42 2013] [debug] GET "/".
+[Fri Sep 20 10:06:42 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Sep 20 10:06:42 2013] [debug] 200 OK (0.030626s, 32.652/s).
+[Fri Sep 20 10:06:42 2013] [debug] GET "/css/bootstrap.css".
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering inline template.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering inline template.
+[Fri Sep 20 10:06:42 2013] [debug] 404 Not Found (0.055525s, 18.010/s).
+[Fri Sep 20 10:06:42 2013] [debug] GET "/css/bootstrap-glyphicons.css".
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] 404 Not Found (0.007542s, 132.591/s).
+[Fri Sep 20 10:06:42 2013] [debug] GET "/js/jquery.localscroll.js".
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] 404 Not Found (0.009210s, 108.578/s).
+[Fri Sep 20 10:06:42 2013] [debug] GET "/css/jumbotron-narrow.css".
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] 404 Not Found (0.006179s, 161.838/s).
+[Fri Sep 20 10:06:42 2013] [debug] GET "/js/bootstrap.min.js".
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] 404 Not Found (0.006660s, 150.150/s).
+[Fri Sep 20 10:06:42 2013] [debug] GET "/js/jquery.scrollTo.js".
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] 404 Not Found (0.007095s, 140.944/s).
+[Fri Sep 20 10:06:42 2013] [debug] GET "/img/bg_img.jpg".
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] 404 Not Found (0.007068s, 141.483/s).
+[Fri Sep 20 10:06:42 2013] [debug] GET "/img/circle_outdoor.jpg".
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] 404 Not Found (0.007117s, 140.509/s).
+[Fri Sep 20 10:06:42 2013] [debug] GET "/img/circle_grounds.jpg".
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] 404 Not Found (0.006789s, 147.297/s).
+[Fri Sep 20 10:06:42 2013] [debug] GET "/img/circle_table.jpg".
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:42 2013] [debug] 404 Not Found (0.009608s, 104.080/s).
+[Fri Sep 20 10:06:46 2013] [debug] GET "/".
+[Fri Sep 20 10:06:46 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Sep 20 10:06:46 2013] [debug] 200 OK (0.001786s, 559.910/s).
+[Fri Sep 20 10:06:46 2013] [debug] GET "/css/bootstrap.css".
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] 404 Not Found (0.008314s, 120.279/s).
+[Fri Sep 20 10:06:46 2013] [debug] GET "/js/jquery.localscroll.js".
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] 404 Not Found (0.008116s, 123.213/s).
+[Fri Sep 20 10:06:46 2013] [debug] GET "/css/bootstrap-glyphicons.css".
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] 404 Not Found (0.008706s, 114.863/s).
+[Fri Sep 20 10:06:46 2013] [debug] GET "/css/jumbotron-narrow.css".
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] 404 Not Found (0.006090s, 164.204/s).
+[Fri Sep 20 10:06:46 2013] [debug] GET "/js/jquery.scrollTo.js".
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] 404 Not Found (0.006749s, 148.170/s).
+[Fri Sep 20 10:06:46 2013] [debug] GET "/js/bootstrap.min.js".
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] 404 Not Found (0.005948s, 168.124/s).
+[Fri Sep 20 10:06:46 2013] [debug] GET "/img/bg_img.jpg".
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] 404 Not Found (0.006578s, 152.022/s).
+[Fri Sep 20 10:06:46 2013] [debug] GET "/img/circle_table.jpg".
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] 404 Not Found (0.008073s, 123.870/s).
+[Fri Sep 20 10:06:46 2013] [debug] GET "/img/circle_grounds.jpg".
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] 404 Not Found (0.006109s, 163.693/s).
+[Fri Sep 20 10:06:46 2013] [debug] GET "/img/circle_outdoor.jpg".
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] Rendering cached inline template.
+[Fri Sep 20 10:06:46 2013] [debug] 404 Not Found (0.009821s, 101.823/s).
+[Fri Sep 20 10:07:02 2013] [info] Listening at "http://*:3000".
+[Fri Sep 20 10:07:12 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Sep 20 10:07:12 2013] [debug] GET "/".
+[Fri Sep 20 10:07:12 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Fri Sep 20 10:07:12 2013] [debug] Rendering template "home/welcome.html.ep".
+[Fri Sep 20 10:07:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Sep 20 10:07:12 2013] [debug] 200 OK (0.025117s, 39.814/s).
+[Fri Sep 20 10:07:13 2013] [debug] GET "/".
+[Fri Sep 20 10:07:13 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Fri Sep 20 10:07:13 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Fri Sep 20 10:07:13 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Sep 20 10:07:13 2013] [debug] 200 OK (0.003240s, 308.642/s).
+[Fri Sep 20 22:39:22 2013] [debug] GET "/".
+[Fri Sep 20 22:39:22 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Fri Sep 20 22:39:22 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Fri Sep 20 22:39:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Sep 20 22:39:22 2013] [debug] 200 OK (0.025842s, 38.697/s).
+[Sun Sep 22 17:23:01 2013] [info] Listening at "http://*:3000".
+[Sun Sep 22 17:23:09 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 17:23:09 2013] [debug] GET "/".
+[Sun Sep 22 17:23:09 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 17:23:09 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 17:23:10 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 17:23:10 2013] [debug] 200 OK (0.748512s, 1.336/s).
+[Sun Sep 22 17:23:39 2013] [debug] GET "/bedroom".
+[Sun Sep 22 17:23:39 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Sun Sep 22 17:23:39 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Sun Sep 22 17:23:40 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 17:23:40 2013] [debug] 200 OK (0.664228s, 1.506/s).
+[Sun Sep 22 17:23:55 2013] [debug] GET "/gallery".
+[Sun Sep 22 17:23:55 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Sun Sep 22 17:23:55 2013] [debug] Rendering template "home/gallery.html.ep".
+[Sun Sep 22 17:23:56 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 17:23:56 2013] [debug] 200 OK (0.527594s, 1.895/s).
+[Sun Sep 22 17:24:12 2013] [debug] GET "/".
+[Sun Sep 22 17:24:12 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 17:24:12 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Sun Sep 22 17:24:12 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 17:24:12 2013] [debug] 200 OK (0.001491s, 670.691/s).
+[Sun Sep 22 17:24:49 2013] [debug] GET "/bedroom".
+[Sun Sep 22 17:24:49 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Sun Sep 22 17:24:49 2013] [debug] Rendering cached template "home/bedroom.html.ep".
+[Sun Sep 22 17:24:49 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 17:24:49 2013] [debug] 200 OK (0.002471s, 404.694/s).
+[Sun Sep 22 17:37:18 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 17:37:18 2013] [debug] GET "/bedroom".
+[Sun Sep 22 17:37:18 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Sun Sep 22 17:37:18 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Sun Sep 22 17:37:18 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 17:37:18 2013] [debug] 200 OK (0.032090s, 31.162/s).
+[Sun Sep 22 17:39:22 2013] [debug] GET "/bedroom".
+[Sun Sep 22 17:39:22 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Sun Sep 22 17:39:22 2013] [debug] Rendering cached template "home/bedroom.html.ep".
+[Sun Sep 22 17:39:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 17:39:22 2013] [debug] 200 OK (0.001287s, 777.001/s).
+[Sun Sep 22 17:46:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 17:46:50 2013] [debug] GET "/bedroom".
+[Sun Sep 22 17:46:50 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Sun Sep 22 17:46:50 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Sun Sep 22 17:46:50 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 17:46:50 2013] [debug] 200 OK (0.029242s, 34.197/s).
+[Sun Sep 22 17:46:58 2013] [debug] GET "/living".
+[Sun Sep 22 17:46:58 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "living".
+[Sun Sep 22 17:46:58 2013] [debug] Rendering template "home/living.html.ep".
+[Sun Sep 22 17:46:58 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 17:46:58 2013] [debug] 200 OK (0.017749s, 56.341/s).
+[Sun Sep 22 17:47:32 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 17:47:32 2013] [debug] GET "/living".
+[Sun Sep 22 17:47:32 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "living".
+[Sun Sep 22 17:47:32 2013] [debug] Rendering template "home/living.html.ep".
+[Sun Sep 22 17:47:32 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 17:47:32 2013] [debug] 200 OK (0.034636s, 28.872/s).
+[Sun Sep 22 17:47:44 2013] [debug] GET "/leisure".
+[Sun Sep 22 17:47:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Sep 22 17:47:44 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Sep 22 17:47:44 2013] [debug] Rendering inline template.
+[Sun Sep 22 17:47:44 2013] [debug] Rendering inline template.
+[Sun Sep 22 17:47:44 2013] [debug] 404 Not Found (0.029501s, 33.897/s).
+[Sun Sep 22 17:48:20 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 17:48:20 2013] [debug] GET "/leisure".
+[Sun Sep 22 17:48:20 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "leisure".
+[Sun Sep 22 17:48:20 2013] [debug] Rendering template "home/leisure.html.ep".
+[Sun Sep 22 17:48:20 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 17:48:20 2013] [debug] 200 OK (0.029424s, 33.986/s).
+[Sun Sep 22 17:48:33 2013] [debug] GET "/".
+[Sun Sep 22 17:48:33 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 17:48:33 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 17:48:33 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 17:48:33 2013] [debug] 200 OK (0.009206s, 108.625/s).
+[Sun Sep 22 17:50:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 17:50:04 2013] [debug] GET "/".
+[Sun Sep 22 17:50:04 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 17:50:04 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 17:50:04 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 17:50:04 2013] [debug] 200 OK (0.028122s, 35.559/s).
+[Sun Sep 22 17:50:37 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 17:50:37 2013] [debug] GET "/".
+[Sun Sep 22 17:50:37 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 17:50:37 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 17:50:37 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 17:50:37 2013] [debug] 200 OK (0.020370s, 49.092/s).
+[Sun Sep 22 17:51:09 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 17:51:09 2013] [debug] GET "/".
+[Sun Sep 22 17:51:09 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 17:51:09 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 17:51:09 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 17:51:09 2013] [debug] 200 OK (0.025018s, 39.971/s).
+[Sun Sep 22 17:51:40 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 17:51:40 2013] [debug] GET "/".
+[Sun Sep 22 17:51:40 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 17:51:40 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 17:51:40 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 17:51:40 2013] [debug] 200 OK (0.021450s, 46.620/s).
+[Sun Sep 22 17:51:55 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 17:51:55 2013] [debug] GET "/".
+[Sun Sep 22 17:51:55 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 17:51:55 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 17:51:55 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 17:51:55 2013] [debug] 200 OK (0.027010s, 37.023/s).
+[Sun Sep 22 18:00:21 2013] [debug] GET "/".
+[Sun Sep 22 18:00:21 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 18:00:21 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Sun Sep 22 18:00:21 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:00:21 2013] [debug] 200 OK (0.001172s, 853.242/s).
+[Sun Sep 22 18:00:33 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:00:33 2013] [debug] GET "/".
+[Sun Sep 22 18:00:33 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 18:00:33 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 18:00:33 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:00:33 2013] [debug] 200 OK (0.017509s, 57.113/s).
+[Sun Sep 22 18:01:39 2013] [debug] GET "/".
+[Sun Sep 22 18:01:39 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 18:01:39 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Sun Sep 22 18:01:39 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:01:39 2013] [debug] 200 OK (0.003350s, 298.507/s).
+[Sun Sep 22 18:02:23 2013] [debug] GET "/".
+[Sun Sep 22 18:02:23 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 18:02:23 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Sun Sep 22 18:02:23 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:02:23 2013] [debug] 200 OK (0.002837s, 352.485/s).
+[Sun Sep 22 18:04:45 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:04:45 2013] [debug] GET "/".
+[Sun Sep 22 18:04:45 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 18:04:45 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 18:04:45 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:04:45 2013] [debug] 200 OK (0.028466s, 35.130/s).
+[Sun Sep 22 18:05:19 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:05:19 2013] [debug] GET "/".
+[Sun Sep 22 18:05:19 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 18:05:19 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 18:05:19 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:05:19 2013] [debug] 200 OK (0.029326s, 34.099/s).
+[Sun Sep 22 18:06:34 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:06:34 2013] [debug] GET "/".
+[Sun Sep 22 18:06:34 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 18:06:34 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 18:06:34 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:06:34 2013] [debug] 200 OK (0.018322s, 54.579/s).
+[Sun Sep 22 18:06:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:06:57 2013] [debug] GET "/".
+[Sun Sep 22 18:06:57 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 18:06:57 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 18:06:57 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:06:57 2013] [debug] 200 OK (0.021625s, 46.243/s).
+[Sun Sep 22 18:07:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:07:44 2013] [debug] GET "/".
+[Sun Sep 22 18:07:44 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 18:07:44 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 18:07:45 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:07:45 2013] [debug] 200 OK (0.022941s, 43.590/s).
+[Sun Sep 22 18:16:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:16:35 2013] [debug] GET "/".
+[Sun Sep 22 18:16:35 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 18:16:35 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 18:16:35 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:16:35 2013] [debug] 200 OK (0.024017s, 41.637/s).
+[Sun Sep 22 18:16:43 2013] [debug] GET "/area".
+[Sun Sep 22 18:16:43 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Sun Sep 22 18:16:43 2013] [debug] Rendering template "home/area.html.ep".
+[Sun Sep 22 18:16:43 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:16:43 2013] [debug] 200 OK (0.009892s, 101.092/s).
+[Sun Sep 22 18:18:00 2013] [debug] GET "/".
+[Sun Sep 22 18:18:00 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 18:18:00 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Sun Sep 22 18:18:00 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:18:00 2013] [debug] 200 OK (0.001079s, 926.784/s).
+[Sun Sep 22 18:18:13 2013] [debug] GET "/bedroom".
+[Sun Sep 22 18:18:13 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Sun Sep 22 18:18:13 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Sun Sep 22 18:18:13 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:18:13 2013] [debug] 200 OK (0.020969s, 47.689/s).
+[Sun Sep 22 18:19:38 2013] [debug] GET "/area".
+[Sun Sep 22 18:19:38 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Sun Sep 22 18:19:38 2013] [debug] Rendering cached template "home/area.html.ep".
+[Sun Sep 22 18:19:38 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:19:38 2013] [debug] 200 OK (0.001478s, 676.590/s).
+[Sun Sep 22 18:21:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:21:15 2013] [debug] GET "/area".
+[Sun Sep 22 18:21:15 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Sun Sep 22 18:21:15 2013] [debug] Rendering template "home/area.html.ep".
+[Sun Sep 22 18:21:15 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:21:15 2013] [debug] 200 OK (0.022025s, 45.403/s).
+[Sun Sep 22 18:21:23 2013] [debug] GET "/gallery".
+[Sun Sep 22 18:21:23 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Sun Sep 22 18:21:23 2013] [debug] Rendering template "home/gallery.html.ep".
+[Sun Sep 22 18:21:23 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:21:23 2013] [debug] 200 OK (0.010640s, 93.985/s).
+[Sun Sep 22 18:22:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:22:01 2013] [debug] GET "/gallery".
+[Sun Sep 22 18:22:01 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Sun Sep 22 18:22:01 2013] [debug] Rendering template "home/gallery.html.ep".
+[Sun Sep 22 18:22:01 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:22:01 2013] [debug] 200 OK (0.024570s, 40.700/s).
+[Sun Sep 22 18:22:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:22:26 2013] [debug] GET "/gallery".
+[Sun Sep 22 18:22:26 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Sun Sep 22 18:22:26 2013] [debug] Rendering template "home/gallery.html.ep".
+[Sun Sep 22 18:22:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:22:26 2013] [debug] 200 OK (0.017593s, 56.841/s).
+[Sun Sep 22 18:23:02 2013] [debug] GET "/contact".
+[Sun Sep 22 18:23:02 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Sun Sep 22 18:23:02 2013] [debug] Rendering template "home/contact.html.ep".
+[Sun Sep 22 18:23:02 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:23:02 2013] [debug] 200 OK (0.009947s, 100.533/s).
+[Sun Sep 22 18:23:42 2013] [debug] GET "/bedroom".
+[Sun Sep 22 18:23:42 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Sun Sep 22 18:23:42 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Sun Sep 22 18:23:42 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:23:42 2013] [debug] 200 OK (0.018227s, 54.864/s).
+[Sun Sep 22 18:25:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:25:48 2013] [debug] GET "/bedroom".
+[Sun Sep 22 18:25:48 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Sun Sep 22 18:25:48 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Sun Sep 22 18:25:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:25:48 2013] [debug] 200 OK (0.030947s, 32.313/s).
+[Sun Sep 22 18:26:05 2013] [debug] GET "/contact".
+[Sun Sep 22 18:26:05 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Sun Sep 22 18:26:05 2013] [debug] Rendering template "home/contact.html.ep".
+[Sun Sep 22 18:26:05 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:26:05 2013] [debug] 200 OK (0.008423s, 118.723/s).
+[Sun Sep 22 18:27:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:27:23 2013] [debug] GET "/contact".
+[Sun Sep 22 18:27:23 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Sun Sep 22 18:27:23 2013] [debug] Rendering template "home/contact.html.ep".
+[Sun Sep 22 18:27:23 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:27:23 2013] [debug] 200 OK (0.019697s, 50.769/s).
+[Sun Sep 22 18:28:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:28:36 2013] [debug] GET "/contact".
+[Sun Sep 22 18:28:36 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Sun Sep 22 18:28:36 2013] [debug] Rendering template "home/contact.html.ep".
+[Sun Sep 22 18:28:36 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:28:36 2013] [debug] 200 OK (0.028110s, 35.575/s).
+[Sun Sep 22 18:29:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:29:01 2013] [debug] GET "/contact".
+[Sun Sep 22 18:29:01 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Sun Sep 22 18:29:01 2013] [debug] Rendering template "home/contact.html.ep".
+[Sun Sep 22 18:29:01 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:29:01 2013] [debug] 200 OK (0.018779s, 53.251/s).
+[Sun Sep 22 18:29:12 2013] [debug] GET "/".
+[Sun Sep 22 18:29:12 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Sun Sep 22 18:29:12 2013] [debug] Rendering template "home/welcome.html.ep".
+[Sun Sep 22 18:29:12 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:29:12 2013] [debug] 200 OK (0.010525s, 95.012/s).
+[Sun Sep 22 18:29:20 2013] [debug] GET "/bedroom".
+[Sun Sep 22 18:29:20 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Sun Sep 22 18:29:20 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Sun Sep 22 18:29:20 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:29:20 2013] [debug] 200 OK (0.022066s, 45.319/s).
+[Sun Sep 22 18:29:35 2013] [debug] GET "/gallery".
+[Sun Sep 22 18:29:35 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Sun Sep 22 18:29:35 2013] [debug] Rendering template "home/gallery.html.ep".
+[Sun Sep 22 18:29:35 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Sep 22 18:29:35 2013] [debug] 200 OK (0.010539s, 94.886/s).
+[Sun Sep 22 18:50:25 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:50:25 2013] [debug] GET "/gallery".
+[Sun Sep 22 18:50:25 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Sun Sep 22 18:50:25 2013] [debug] Rendering template "home/gallery.html.ep".
+[Sun Sep 22 18:50:25 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:50:25 2013] [debug] 200 OK (0.021513s, 46.484/s).
+[Sun Sep 22 18:51:25 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Sep 22 18:51:25 2013] [debug] GET "/gallery".
+[Sun Sep 22 18:51:25 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Sun Sep 22 18:51:25 2013] [debug] Rendering template "home/gallery.html.ep".
+[Sun Sep 22 18:51:25 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Sep 22 18:51:25 2013] [debug] 200 OK (0.022866s, 43.733/s).
+[Tue Sep 24 14:55:37 2013] [debug] GET "/".
+[Tue Sep 24 14:55:37 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 14:55:37 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 24 14:55:37 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 14:55:37 2013] [debug] 200 OK (0.045925s, 21.775/s).
+[Tue Sep 24 14:56:57 2013] [debug] GET "/contact".
+[Tue Sep 24 14:56:57 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 24 14:56:57 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 24 14:56:57 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 14:56:57 2013] [debug] 200 OK (0.011352s, 88.090/s).
+[Tue Sep 24 14:58:25 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 14:58:25 2013] [debug] GET "/contact".
+[Tue Sep 24 14:58:25 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 24 14:58:25 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 24 14:58:25 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 14:58:25 2013] [debug] 200 OK (0.024051s, 41.578/s).
+[Tue Sep 24 14:58:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 14:58:48 2013] [debug] GET "/contact".
+[Tue Sep 24 14:58:48 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 24 14:58:48 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 24 14:58:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 14:58:48 2013] [debug] 200 OK (0.020259s, 49.361/s).
+[Tue Sep 24 14:59:10 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 14:59:10 2013] [debug] GET "/contact".
+[Tue Sep 24 14:59:10 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 24 14:59:10 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 24 14:59:10 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 14:59:10 2013] [debug] 200 OK (0.025939s, 38.552/s).
+[Tue Sep 24 15:00:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 15:00:07 2013] [debug] GET "/contact".
+[Tue Sep 24 15:00:07 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 24 15:00:07 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 24 15:00:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 15:00:07 2013] [debug] 200 OK (0.018654s, 53.608/s).
+[Tue Sep 24 15:00:19 2013] [debug] GET "/area".
+[Tue Sep 24 15:00:19 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 24 15:00:19 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 24 15:00:19 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 15:00:19 2013] [debug] 200 OK (0.010945s, 91.366/s).
+[Tue Sep 24 15:02:47 2013] [debug] GET "/bedroom".
+[Tue Sep 24 15:02:47 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 15:02:47 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 24 15:02:47 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 15:02:47 2013] [debug] 200 OK (0.023169s, 43.161/s).
+[Tue Sep 24 15:05:16 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 15:05:16 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:05:16 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:05:16 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 15:05:16 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 15:05:16 2013] [debug] 200 OK (0.022170s, 45.106/s).
+[Tue Sep 24 15:07:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 15:07:44 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:07:44 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:07:45 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 15:07:45 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 15:07:45 2013] [debug] 200 OK (0.020386s, 49.053/s).
+[Tue Sep 24 15:11:47 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 15:11:47 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:11:47 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:11:47 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 15:11:47 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 15:11:47 2013] [debug] 200 OK (0.019158s, 52.198/s).
+[Tue Sep 24 15:11:47 2013] [debug] GET "/scripts/camera.js".
+[Tue Sep 24 15:11:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 15:11:47 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 15:11:47 2013] [debug] Rendering inline template.
+[Tue Sep 24 15:11:48 2013] [debug] Rendering inline template.
+[Tue Sep 24 15:11:48 2013] [debug] 404 Not Found (0.044017s, 22.718/s).
+[Tue Sep 24 15:23:29 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 15:23:29 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:23:29 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:23:29 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 15:23:29 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 15:23:29 2013] [debug] 200 OK (0.018971s, 52.712/s).
+[Tue Sep 24 15:23:29 2013] [debug] GET "/scripts/camera.js".
+[Tue Sep 24 15:23:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 15:23:29 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 15:23:29 2013] [debug] Rendering inline template.
+[Tue Sep 24 15:23:29 2013] [debug] Rendering inline template.
+[Tue Sep 24 15:23:29 2013] [debug] 404 Not Found (0.019415s, 51.507/s).
+[Tue Sep 24 15:26:16 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 15:26:16 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:26:16 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:26:16 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 15:26:16 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 15:26:16 2013] [debug] 200 OK (0.017478s, 57.215/s).
+[Tue Sep 24 15:26:22 2013] [debug] GET "/".
+[Tue Sep 24 15:26:22 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 15:26:22 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 24 15:26:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 15:26:22 2013] [debug] 200 OK (0.012246s, 81.659/s).
+[Tue Sep 24 15:26:27 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:26:27 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:26:27 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep 24 15:26:27 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 15:26:27 2013] [debug] 200 OK (0.001821s, 549.149/s).
+[Tue Sep 24 15:26:39 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:26:39 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:26:39 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep 24 15:26:39 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 15:26:39 2013] [debug] 200 OK (0.001609s, 621.504/s).
+[Tue Sep 24 15:27:16 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 15:27:16 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:27:16 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:27:16 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 15:27:16 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 15:27:16 2013] [debug] 200 OK (0.024131s, 41.440/s).
+[Tue Sep 24 15:38:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 15:38:04 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:38:04 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:38:04 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 15:38:04 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 15:38:04 2013] [debug] 200 OK (0.016757s, 59.677/s).
+[Tue Sep 24 15:50:05 2013] [debug] GET "/".
+[Tue Sep 24 15:50:05 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 15:50:05 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 24 15:50:05 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 15:50:05 2013] [debug] 200 OK (0.011639s, 85.918/s).
+[Tue Sep 24 15:50:13 2013] [debug] GET "/".
+[Tue Sep 24 15:50:13 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 15:50:13 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep 24 15:50:13 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 15:50:13 2013] [debug] 200 OK (0.001923s, 520.021/s).
+[Tue Sep 24 15:50:17 2013] [debug] GET "/".
+[Tue Sep 24 15:50:17 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 15:50:17 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep 24 15:50:17 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 15:50:17 2013] [debug] 200 OK (0.001459s, 685.401/s).
+[Tue Sep 24 15:50:23 2013] [debug] GET "/".
+[Tue Sep 24 15:50:23 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 15:50:23 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep 24 15:50:23 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 15:50:23 2013] [debug] 200 OK (0.001557s, 642.261/s).
+[Tue Sep 24 15:50:35 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:50:35 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:50:35 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep 24 15:50:35 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 15:50:35 2013] [debug] 200 OK (0.001259s, 794.281/s).
+[Tue Sep 24 15:52:14 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 15:52:14 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:52:14 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:52:14 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 15:52:14 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 15:52:14 2013] [debug] 200 OK (0.018621s, 53.703/s).
+[Tue Sep 24 15:53:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 15:53:07 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:53:07 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:53:07 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 15:53:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 15:53:07 2013] [debug] 200 OK (0.022404s, 44.635/s).
+[Tue Sep 24 15:54:27 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 15:54:27 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:54:27 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:54:27 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 15:54:27 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 15:54:27 2013] [debug] 200 OK (0.030058s, 33.269/s).
+[Tue Sep 24 15:55:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 15:55:07 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:55:07 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:55:07 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 15:55:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 15:55:07 2013] [debug] 200 OK (0.022028s, 45.397/s).
+[Tue Sep 24 15:55:09 2013] [debug] GET "/gallery".
+[Tue Sep 24 15:55:09 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 15:55:09 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep 24 15:55:09 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 15:55:09 2013] [debug] 200 OK (0.001610s, 621.118/s).
+[Tue Sep 24 16:02:40 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:02:40 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:02:40 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:02:40 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:02:40 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:02:40 2013] [debug] 200 OK (0.036515s, 27.386/s).
+[Tue Sep 24 16:02:41 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:02:41 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:02:41 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:02:41 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:02:41 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:02:41 2013] [debug] 404 Not Found (0.037946s, 26.353/s).
+[Tue Sep 24 16:02:41 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:02:41 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:02:41 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:02:41 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:02:41 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:02:41 2013] [debug] 404 Not Found (0.011956s, 83.640/s).
+[Tue Sep 24 16:03:16 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:03:17 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:03:17 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:03:17 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:03:17 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:03:17 2013] [debug] 200 OK (0.025422s, 39.336/s).
+[Tue Sep 24 16:03:17 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:03:17 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:03:17 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:03:17 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:03:17 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:03:17 2013] [debug] 404 Not Found (0.039970s, 25.019/s).
+[Tue Sep 24 16:03:17 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:03:17 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:03:17 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:03:17 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:03:17 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:03:17 2013] [debug] 404 Not Found (0.013996s, 71.449/s).
+[Tue Sep 24 16:03:38 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:03:38 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:03:38 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:03:38 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:03:38 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:03:38 2013] [debug] 200 OK (0.032836s, 30.454/s).
+[Tue Sep 24 16:03:39 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:03:39 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:03:39 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:03:39 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:03:39 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:03:39 2013] [debug] 404 Not Found (0.026262s, 38.078/s).
+[Tue Sep 24 16:03:39 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:03:39 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:03:39 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:03:39 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:03:39 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:03:39 2013] [debug] 404 Not Found (0.009401s, 106.372/s).
+[Tue Sep 24 16:05:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:05:04 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:05:04 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:05:04 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:05:04 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:05:04 2013] [debug] 200 OK (0.027864s, 35.889/s).
+[Tue Sep 24 16:05:05 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:05:05 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:05:05 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:05:05 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:05:05 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:05:05 2013] [debug] 404 Not Found (0.030231s, 33.079/s).
+[Tue Sep 24 16:05:05 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:05:05 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:05:05 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:05:05 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:05:05 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:05:05 2013] [debug] 404 Not Found (0.009492s, 105.352/s).
+[Tue Sep 24 16:05:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:05:26 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:05:26 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:05:26 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:05:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:05:26 2013] [debug] 200 OK (0.023863s, 41.906/s).
+[Tue Sep 24 16:05:27 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:05:27 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:05:27 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:05:27 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:05:27 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:05:27 2013] [debug] 404 Not Found (0.027839s, 35.921/s).
+[Tue Sep 24 16:05:27 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:05:27 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:05:27 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:05:27 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:05:27 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:05:27 2013] [debug] 404 Not Found (0.009404s, 106.338/s).
+[Tue Sep 24 16:05:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:06:10 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:06:10 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:06:10 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:06:10 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:06:10 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:06:10 2013] [debug] 200 OK (0.041365s, 24.175/s).
+[Tue Sep 24 16:06:11 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:06:11 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:06:11 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:06:11 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:06:11 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:06:11 2013] [debug] 404 Not Found (0.047520s, 21.044/s).
+[Tue Sep 24 16:06:11 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:06:11 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:06:11 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:06:11 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:06:11 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:06:11 2013] [debug] 404 Not Found (0.016148s, 61.927/s).
+[Tue Sep 24 16:07:06 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:07:06 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:07:06 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:07:06 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:07:06 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:07:06 2013] [debug] 200 OK (0.027221s, 36.736/s).
+[Tue Sep 24 16:07:07 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:07:07 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:07:07 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:07:07 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:07:07 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:07:07 2013] [debug] 404 Not Found (0.037840s, 26.427/s).
+[Tue Sep 24 16:07:07 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:07:07 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:07:07 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:07:07 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:07:07 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:07:07 2013] [debug] 404 Not Found (0.013799s, 72.469/s).
+[Tue Sep 24 16:07:21 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:07:21 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:07:21 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:07:21 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:07:21 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:07:21 2013] [debug] 200 OK (0.033252s, 30.073/s).
+[Tue Sep 24 16:07:22 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:07:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:07:22 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:07:22 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:07:22 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:07:22 2013] [debug] 404 Not Found (0.036286s, 27.559/s).
+[Tue Sep 24 16:07:22 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:07:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:07:22 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:07:22 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:07:22 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:07:22 2013] [debug] 404 Not Found (0.012199s, 81.974/s).
+[Tue Sep 24 16:09:57 2013] [debug] GET "/".
+[Tue Sep 24 16:09:57 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 16:09:57 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 24 16:09:57 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 16:09:57 2013] [debug] 200 OK (0.015815s, 63.231/s).
+[Tue Sep 24 16:09:58 2013] [debug] GET "/undefined".
+[Tue Sep 24 16:09:58 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:09:58 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:09:58 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:09:58 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:09:58 2013] [debug] 404 Not Found (0.013256s, 75.438/s).
+[Tue Sep 24 16:09:59 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:09:59 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:09:59 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep 24 16:09:59 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 16:09:59 2013] [debug] 200 OK (0.002198s, 454.959/s).
+[Tue Sep 24 16:09:59 2013] [debug] GET "/temp/camera/images/slides/bridge.jpg".
+[Tue Sep 24 16:09:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:09:59 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:09:59 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:09:59 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:09:59 2013] [debug] 404 Not Found (0.011385s, 87.835/s).
+[Tue Sep 24 16:09:59 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:09:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:09:59 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:09:59 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:09:59 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:00 2013] [debug] 404 Not Found (0.012540s, 79.745/s).
+[Tue Sep 24 16:10:00 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:10:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:10:00 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:10:00 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:00 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:00 2013] [debug] 404 Not Found (0.011550s, 86.580/s).
+[Tue Sep 24 16:10:17 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:10:17 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:10:17 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep 24 16:10:17 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 16:10:17 2013] [debug] 200 OK (0.002145s, 466.200/s).
+[Tue Sep 24 16:10:17 2013] [debug] GET "/temp/camera/images/slides/thumbs/bridge.jpg".
+[Tue Sep 24 16:10:17 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:10:17 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:10:17 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:17 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:17 2013] [debug] 404 Not Found (0.012327s, 81.123/s).
+[Tue Sep 24 16:10:17 2013] [debug] GET "/temp/camera/images/slides/thumbs/road.jpg".
+[Tue Sep 24 16:10:17 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:10:17 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:10:17 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:17 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:17 2013] [debug] 404 Not Found (0.012930s, 77.340/s).
+[Tue Sep 24 16:10:17 2013] [debug] GET "/temp/camera/images/slides/thumbs/leaf.jpg".
+[Tue Sep 24 16:10:17 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:10:17 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:10:17 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:17 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:17 2013] [debug] 404 Not Found (0.012799s, 78.131/s).
+[Tue Sep 24 16:10:17 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:10:17 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:10:17 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:10:17 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:17 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:17 2013] [debug] 404 Not Found (0.012131s, 82.433/s).
+[Tue Sep 24 16:10:17 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:10:17 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:10:17 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:10:17 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:17 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:17 2013] [debug] 404 Not Found (0.012534s, 79.783/s).
+[Tue Sep 24 16:10:18 2013] [debug] GET "/temp/camera/images/slides/thumbs/shelter.jpg".
+[Tue Sep 24 16:10:18 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:10:18 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:10:18 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:18 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:18 2013] [debug] 404 Not Found (0.012614s, 79.277/s).
+[Tue Sep 24 16:10:18 2013] [debug] GET "/temp/camera/images/slides/thumbs/sea.jpg".
+[Tue Sep 24 16:10:18 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:10:18 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:10:18 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:18 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:18 2013] [debug] 404 Not Found (0.013410s, 74.571/s).
+[Tue Sep 24 16:10:18 2013] [debug] GET "/temp/camera/images/slides/bridge.jpg".
+[Tue Sep 24 16:10:18 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:10:18 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:10:18 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:18 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:18 2013] [debug] 404 Not Found (0.011680s, 85.616/s).
+[Tue Sep 24 16:10:18 2013] [debug] GET "/temp/camera/images/slides/thumbs/tree.jpg".
+[Tue Sep 24 16:10:18 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:10:18 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:10:18 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:18 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:10:18 2013] [debug] 404 Not Found (0.011885s, 84.140/s).
+[Tue Sep 24 16:11:51 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:11:51 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:11:51 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:11:51 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:11:51 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:11:51 2013] [debug] 200 OK (0.031409s, 31.838/s).
+[Tue Sep 24 16:11:51 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:11:51 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:11:51 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:11:51 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:11:51 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:11:51 2013] [debug] 404 Not Found (0.052848s, 18.922/s).
+[Tue Sep 24 16:11:51 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:11:51 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:11:51 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:11:51 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:11:51 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:11:51 2013] [debug] 404 Not Found (0.018927s, 52.835/s).
+[Tue Sep 24 16:11:52 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:11:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:11:52 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:11:52 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:11:52 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:11:52 2013] [debug] 404 Not Found (0.016684s, 59.938/s).
+[Tue Sep 24 16:12:25 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:12:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:12:25 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:12:25 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:12:25 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:12:25 2013] [debug] 404 Not Found (0.016114s, 62.058/s).
+[Tue Sep 24 16:12:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:12:46 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:12:46 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:12:46 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:12:46 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:12:46 2013] [debug] 200 OK (0.028590s, 34.977/s).
+[Tue Sep 24 16:12:46 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:12:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:12:46 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:12:46 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:12:46 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:12:46 2013] [debug] 404 Not Found (0.037302s, 26.808/s).
+[Tue Sep 24 16:12:46 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:12:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:12:46 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:12:46 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:12:46 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:12:46 2013] [debug] 404 Not Found (0.013471s, 74.234/s).
+[Tue Sep 24 16:12:46 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:12:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:12:46 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:12:46 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:12:46 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:12:46 2013] [debug] 404 Not Found (0.013446s, 74.372/s).
+[Tue Sep 24 16:13:45 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:13:47 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:13:47 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:13:47 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:13:47 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:13:47 2013] [debug] 200 OK (0.029544s, 33.848/s).
+[Tue Sep 24 16:13:47 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:13:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:13:47 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:13:47 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:13:47 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:13:47 2013] [debug] 404 Not Found (0.038680s, 25.853/s).
+[Tue Sep 24 16:13:47 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:13:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:13:47 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:13:47 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:13:47 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:13:47 2013] [debug] 404 Not Found (0.012860s, 77.760/s).
+[Tue Sep 24 16:13:47 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:13:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:13:47 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:13:47 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:13:47 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:13:47 2013] [debug] 404 Not Found (0.013494s, 74.107/s).
+[Tue Sep 24 16:19:57 2013] [debug] GET "/".
+[Tue Sep 24 16:19:57 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 16:19:57 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 24 16:19:57 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 16:19:57 2013] [debug] 200 OK (0.009765s, 102.407/s).
+[Tue Sep 24 16:19:58 2013] [debug] GET "/undefined".
+[Tue Sep 24 16:19:58 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:19:58 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:19:58 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:19:58 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:19:58 2013] [debug] 404 Not Found (0.010098s, 99.030/s).
+[Tue Sep 24 16:19:59 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:19:59 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:19:59 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep 24 16:19:59 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 16:19:59 2013] [debug] 200 OK (0.002111s, 473.709/s).
+[Tue Sep 24 16:20:00 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:20:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:20:00 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:20:00 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:20:00 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:20:00 2013] [debug] 404 Not Found (0.009906s, 100.949/s).
+[Tue Sep 24 16:20:00 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:20:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:20:00 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:20:00 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:20:00 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:20:00 2013] [debug] 404 Not Found (0.013367s, 74.811/s).
+[Tue Sep 24 16:20:00 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:20:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:20:00 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:20:00 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:20:00 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:20:00 2013] [debug] 404 Not Found (0.011187s, 89.389/s).
+[Tue Sep 24 16:21:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:21:07 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:21:07 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:21:07 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:21:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:21:07 2013] [debug] 200 OK (0.021988s, 45.479/s).
+[Tue Sep 24 16:21:07 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:21:07 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:21:07 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:21:07 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:21:07 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:21:07 2013] [debug] 404 Not Found (0.022179s, 45.088/s).
+[Tue Sep 24 16:21:07 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:21:07 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:21:07 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:21:07 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:21:07 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:21:07 2013] [debug] 404 Not Found (0.005951s, 168.039/s).
+[Tue Sep 24 16:21:07 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:21:07 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:21:07 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:21:07 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:21:07 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:21:07 2013] [debug] 404 Not Found (0.008619s, 116.023/s).
+[Tue Sep 24 16:21:39 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:21:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:21:44 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:21:44 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:21:44 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:21:44 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:21:44 2013] [debug] 200 OK (0.024255s, 41.229/s).
+[Tue Sep 24 16:21:44 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:21:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:21:44 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:21:44 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:21:44 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:21:44 2013] [debug] 404 Not Found (0.032040s, 31.211/s).
+[Tue Sep 24 16:21:44 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:21:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:21:44 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:21:44 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:21:44 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:21:44 2013] [debug] 404 Not Found (0.006052s, 165.235/s).
+[Tue Sep 24 16:21:44 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:21:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:21:44 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:21:44 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:21:44 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:21:44 2013] [debug] 404 Not Found (0.008072s, 123.885/s).
+[Tue Sep 24 16:22:03 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:22:03 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:22:03 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:22:03 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:22:03 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:22:03 2013] [debug] 200 OK (0.018838s, 53.084/s).
+[Tue Sep 24 16:22:03 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:22:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:03 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:03 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:22:03 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:22:03 2013] [debug] 404 Not Found (0.022002s, 45.450/s).
+[Tue Sep 24 16:22:03 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:22:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:03 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:03 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:03 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:03 2013] [debug] 404 Not Found (0.006020s, 166.113/s).
+[Tue Sep 24 16:22:03 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:22:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:03 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:03 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:03 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:03 2013] [debug] 404 Not Found (0.006869s, 145.582/s).
+[Tue Sep 24 16:22:14 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:22:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:22:15 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:22:15 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:22:15 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:22:15 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:22:15 2013] [debug] 200 OK (0.023170s, 43.159/s).
+[Tue Sep 24 16:22:15 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:22:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:15 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:15 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:22:15 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:22:15 2013] [debug] 404 Not Found (0.030213s, 33.098/s).
+[Tue Sep 24 16:22:15 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:22:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:15 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:15 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:15 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:15 2013] [debug] 404 Not Found (0.010732s, 93.179/s).
+[Tue Sep 24 16:22:15 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:22:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:15 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:15 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:15 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:15 2013] [debug] 404 Not Found (0.011859s, 84.324/s).
+[Tue Sep 24 16:22:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:22:26 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:22:26 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:22:26 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:22:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:22:26 2013] [debug] 200 OK (0.019730s, 50.684/s).
+[Tue Sep 24 16:22:26 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:22:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:26 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:26 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:22:26 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:22:26 2013] [debug] 404 Not Found (0.022408s, 44.627/s).
+[Tue Sep 24 16:22:26 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:22:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:26 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:26 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:26 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:26 2013] [debug] 404 Not Found (0.006546s, 152.765/s).
+[Tue Sep 24 16:22:26 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:22:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:26 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:26 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:26 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:26 2013] [debug] 404 Not Found (0.006101s, 163.908/s).
+[Tue Sep 24 16:22:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:22:35 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:22:35 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:22:35 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:22:35 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:22:35 2013] [debug] 200 OK (0.022731s, 43.993/s).
+[Tue Sep 24 16:22:36 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:22:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:36 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:22:36 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:22:36 2013] [debug] 404 Not Found (0.024665s, 40.543/s).
+[Tue Sep 24 16:22:36 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:22:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:36 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:36 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:36 2013] [debug] 404 Not Found (0.006744s, 148.280/s).
+[Tue Sep 24 16:22:36 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:22:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:36 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:36 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:36 2013] [debug] 404 Not Found (0.005977s, 167.308/s).
+[Tue Sep 24 16:22:46 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:22:48 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:22:48 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:22:48 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:22:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:22:48 2013] [debug] 200 OK (0.024116s, 41.466/s).
+[Tue Sep 24 16:22:48 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:22:48 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:48 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:48 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:22:48 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:22:48 2013] [debug] 404 Not Found (0.029712s, 33.656/s).
+[Tue Sep 24 16:22:48 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:22:48 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:48 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:48 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:48 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:48 2013] [debug] 404 Not Found (0.008088s, 123.640/s).
+[Tue Sep 24 16:22:48 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:22:48 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:48 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:48 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:48 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:48 2013] [debug] 404 Not Found (0.007160s, 139.665/s).
+[Tue Sep 24 16:22:58 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:22:58 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:22:58 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:22:58 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:22:58 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:22:58 2013] [debug] 200 OK (0.025600s, 39.062/s).
+[Tue Sep 24 16:22:59 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:22:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:59 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:59 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:22:59 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:22:59 2013] [debug] 404 Not Found (0.027062s, 36.952/s).
+[Tue Sep 24 16:22:59 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:22:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:59 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:59 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:59 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:59 2013] [debug] 404 Not Found (0.008081s, 123.747/s).
+[Tue Sep 24 16:22:59 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:22:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:22:59 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:22:59 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:59 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:22:59 2013] [debug] 404 Not Found (0.007048s, 141.884/s).
+[Tue Sep 24 16:23:14 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:23:14 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:23:14 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:23:14 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:23:14 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:23:14 2013] [debug] 200 OK (0.020484s, 48.819/s).
+[Tue Sep 24 16:23:15 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:23:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:23:15 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:23:15 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:23:15 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:23:15 2013] [debug] 404 Not Found (0.020106s, 49.736/s).
+[Tue Sep 24 16:23:15 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:23:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:23:15 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:23:15 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:23:15 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:23:15 2013] [debug] 404 Not Found (0.006388s, 156.544/s).
+[Tue Sep 24 16:23:15 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:23:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:23:15 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:23:15 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:23:15 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:23:15 2013] [debug] 404 Not Found (0.006196s, 161.394/s).
+[Tue Sep 24 16:24:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:24:01 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:24:01 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:24:01 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:24:01 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:24:01 2013] [debug] 200 OK (0.018931s, 52.823/s).
+[Tue Sep 24 16:24:01 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:24:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:24:01 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:24:01 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:24:01 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:24:01 2013] [debug] 404 Not Found (0.034871s, 28.677/s).
+[Tue Sep 24 16:24:01 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:24:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:24:01 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:24:01 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:01 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:01 2013] [debug] 404 Not Found (0.011941s, 83.745/s).
+[Tue Sep 24 16:24:01 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:24:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:24:01 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:24:01 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:01 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:01 2013] [debug] 404 Not Found (0.011673s, 85.668/s).
+[Tue Sep 24 16:24:14 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:24:15 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:24:15 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:24:15 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:24:15 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:24:15 2013] [debug] 200 OK (0.022179s, 45.088/s).
+[Tue Sep 24 16:24:15 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:24:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:24:15 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:24:15 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:24:15 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:24:15 2013] [debug] 404 Not Found (0.020273s, 49.327/s).
+[Tue Sep 24 16:24:15 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:24:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:24:15 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:24:15 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:15 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:15 2013] [debug] 404 Not Found (0.007587s, 131.804/s).
+[Tue Sep 24 16:24:15 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:24:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:24:15 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:24:15 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:15 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:15 2013] [debug] 404 Not Found (0.005975s, 167.364/s).
+[Tue Sep 24 16:24:24 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:24:24 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:24:24 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:24:24 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:24:24 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:24:24 2013] [debug] 200 OK (0.019638s, 50.922/s).
+[Tue Sep 24 16:24:24 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:24:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:24:24 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:24:24 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:24:24 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:24:24 2013] [debug] 404 Not Found (0.025476s, 39.253/s).
+[Tue Sep 24 16:24:24 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:24:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:24:24 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:24:24 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:24 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:24 2013] [debug] 404 Not Found (0.005890s, 169.779/s).
+[Tue Sep 24 16:24:24 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:24:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:24:24 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:24:24 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:24 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:24 2013] [debug] 404 Not Found (0.006110s, 163.666/s).
+[Tue Sep 24 16:24:32 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:24:32 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:24:32 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:24:32 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:24:32 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:24:32 2013] [debug] 200 OK (0.025332s, 39.476/s).
+[Tue Sep 24 16:24:32 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:24:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:24:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:24:32 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:24:32 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:24:32 2013] [debug] 404 Not Found (0.022430s, 44.583/s).
+[Tue Sep 24 16:24:32 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:24:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:24:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:24:32 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:32 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:32 2013] [debug] 404 Not Found (0.006316s, 158.328/s).
+[Tue Sep 24 16:24:32 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:24:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:24:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:24:32 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:32 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:24:32 2013] [debug] 404 Not Found (0.006707s, 149.098/s).
+[Tue Sep 24 16:25:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:25:23 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:25:23 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:25:23 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:25:23 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:25:23 2013] [debug] 200 OK (0.016972s, 58.921/s).
+[Tue Sep 24 16:25:23 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:25:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:25:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:25:23 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:25:23 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:25:23 2013] [debug] 404 Not Found (0.030617s, 32.662/s).
+[Tue Sep 24 16:25:23 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:25:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:25:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:25:23 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:25:23 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:25:23 2013] [debug] 404 Not Found (0.011458s, 87.275/s).
+[Tue Sep 24 16:25:23 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:25:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:25:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:25:23 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:25:23 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:25:23 2013] [debug] 404 Not Found (0.006989s, 143.082/s).
+[Tue Sep 24 16:26:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:26:01 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:26:01 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:26:01 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:26:01 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:26:01 2013] [debug] 200 OK (0.019873s, 50.320/s).
+[Tue Sep 24 16:26:01 2013] [debug] GET "/images/camera_skins.png".
+[Tue Sep 24 16:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:26:01 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:26:01 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:26:01 2013] [debug] 404 Not Found (0.023142s, 43.211/s).
+[Tue Sep 24 16:26:01 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:26:01 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:26:01 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:26:01 2013] [debug] 404 Not Found (0.008930s, 111.982/s).
+[Tue Sep 24 16:26:01 2013] [debug] GET "/images/camera-loader.gif".
+[Tue Sep 24 16:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:26:01 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:26:01 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:26:01 2013] [debug] 404 Not Found (0.006246s, 160.102/s).
+[Tue Sep 24 16:29:59 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:29:59 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:29:59 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:29:59 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:29:59 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:29:59 2013] [debug] 200 OK (0.021986s, 45.483/s).
+[Tue Sep 24 16:29:59 2013] [debug] GET "/css/img/camera_skins.png".
+[Tue Sep 24 16:29:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:29:59 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:29:59 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:29:59 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:29:59 2013] [debug] 404 Not Found (0.022944s, 43.584/s).
+[Tue Sep 24 16:29:59 2013] [debug] GET "/css/img/camera-loader.gif".
+[Tue Sep 24 16:29:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:29:59 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:29:59 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:29:59 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:29:59 2013] [debug] 404 Not Found (0.008426s, 118.680/s).
+[Tue Sep 24 16:29:59 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:29:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:29:59 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:29:59 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:29:59 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:29:59 2013] [debug] 404 Not Found (0.011738s, 85.193/s).
+[Tue Sep 24 16:31:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:31:50 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:31:50 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:31:50 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:31:50 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:31:50 2013] [debug] 200 OK (0.019481s, 51.332/s).
+[Tue Sep 24 16:31:50 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:31:50 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:31:50 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:31:50 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:31:50 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:31:50 2013] [debug] 404 Not Found (0.024455s, 40.891/s).
+[Tue Sep 24 16:33:08 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:33:08 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:33:08 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep 24 16:33:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 16:33:08 2013] [debug] 200 OK (0.002083s, 480.077/s).
+[Tue Sep 24 16:33:08 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:33:08 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:33:08 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:33:08 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:33:08 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:33:08 2013] [debug] 404 Not Found (0.009025s, 110.803/s).
+[Tue Sep 24 16:33:37 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 16:33:37 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:33:37 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:33:37 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 16:33:37 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 16:33:37 2013] [debug] 200 OK (0.018385s, 54.392/s).
+[Tue Sep 24 16:33:37 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:33:37 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:33:37 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:33:37 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:33:37 2013] [debug] Rendering inline template.
+[Tue Sep 24 16:33:37 2013] [debug] 404 Not Found (0.032023s, 31.228/s).
+[Tue Sep 24 16:34:34 2013] [debug] GET "/gallery".
+[Tue Sep 24 16:34:34 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 16:34:34 2013] [debug] Rendering cached template "home/gallery.html.ep".
+[Tue Sep 24 16:34:34 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 16:34:34 2013] [debug] 200 OK (0.001809s, 552.792/s).
+[Tue Sep 24 16:34:34 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 16:34:34 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 16:34:34 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 16:34:34 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:34:34 2013] [debug] Rendering cached inline template.
+[Tue Sep 24 16:34:34 2013] [debug] 404 Not Found (0.006802s, 147.016/s).
+[Tue Sep 24 16:50:27 2013] [debug] GET "/contact".
+[Tue Sep 24 16:50:27 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 24 16:50:27 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 24 16:50:27 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 16:50:27 2013] [debug] 200 OK (0.008753s, 114.247/s).
+[Tue Sep 24 16:50:36 2013] [debug] GET "/".
+[Tue Sep 24 16:50:36 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 16:50:36 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 24 16:50:36 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 16:50:36 2013] [debug] 200 OK (0.009581s, 104.373/s).
+[Tue Sep 24 16:50:44 2013] [debug] GET "/bedroom".
+[Tue Sep 24 16:50:44 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 16:50:44 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 24 16:50:44 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 16:50:44 2013] [debug] 200 OK (0.019250s, 51.948/s).
+[Tue Sep 24 17:23:24 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 17:23:24 2013] [debug] GET "/bedroom".
+[Tue Sep 24 17:23:24 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 17:23:24 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 24 17:23:24 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 17:23:24 2013] [debug] 200 OK (0.031418s, 31.829/s).
+[Tue Sep 24 17:25:19 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 17:25:19 2013] [debug] GET "/bedroom".
+[Tue Sep 24 17:25:19 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 17:25:19 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 24 17:25:19 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 17:25:19 2013] [debug] 200 OK (0.028777s, 34.750/s).
+[Tue Sep 24 17:25:46 2013] [debug] GET "/bedroom".
+[Tue Sep 24 17:25:46 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 17:25:46 2013] [debug] Rendering cached template "home/bedroom.html.ep".
+[Tue Sep 24 17:25:46 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 17:25:46 2013] [debug] 200 OK (0.001015s, 985.222/s).
+[Tue Sep 24 17:26:54 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 17:26:54 2013] [debug] GET "/bedroom".
+[Tue Sep 24 17:26:54 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 17:26:54 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 24 17:26:54 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 17:26:54 2013] [debug] 200 OK (0.027401s, 36.495/s).
+[Tue Sep 24 17:27:13 2013] [debug] GET "/bedroom".
+[Tue Sep 24 17:27:13 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 17:27:13 2013] [debug] Rendering cached template "home/bedroom.html.ep".
+[Tue Sep 24 17:27:13 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 17:27:13 2013] [debug] 200 OK (0.001288s, 776.398/s).
+[Tue Sep 24 17:28:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 17:28:26 2013] [debug] GET "/bedroom".
+[Tue Sep 24 17:28:26 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 17:28:26 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 24 17:28:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 17:28:26 2013] [debug] 200 OK (0.034848s, 28.696/s).
+[Tue Sep 24 17:29:02 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 17:29:02 2013] [debug] GET "/bedroom".
+[Tue Sep 24 17:29:02 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 17:29:02 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 24 17:29:02 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 17:29:02 2013] [debug] 200 OK (0.027275s, 36.664/s).
+[Tue Sep 24 17:29:58 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 17:29:58 2013] [debug] GET "/bedroom".
+[Tue Sep 24 17:29:58 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 17:29:58 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 24 17:29:58 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 17:29:58 2013] [debug] 200 OK (0.027665s, 36.147/s).
+[Tue Sep 24 17:30:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 17:30:28 2013] [debug] GET "/bedroom".
+[Tue Sep 24 17:30:28 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 17:30:28 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 24 17:30:28 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 17:30:28 2013] [debug] 200 OK (0.039631s, 25.233/s).
+[Tue Sep 24 17:34:27 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 17:34:27 2013] [debug] GET "/bedroom".
+[Tue Sep 24 17:34:27 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 17:34:27 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 24 17:34:27 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 17:34:27 2013] [debug] 200 OK (0.029960s, 33.378/s).
+[Tue Sep 24 17:34:33 2013] [debug] GET "/living".
+[Tue Sep 24 17:34:33 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "living".
+[Tue Sep 24 17:34:33 2013] [debug] Rendering template "home/living.html.ep".
+[Tue Sep 24 17:34:33 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 17:34:33 2013] [debug] 200 OK (0.016750s, 59.701/s).
+[Tue Sep 24 17:34:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 17:34:53 2013] [debug] GET "/living".
+[Tue Sep 24 17:34:53 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "living".
+[Tue Sep 24 17:34:53 2013] [debug] Rendering template "home/living.html.ep".
+[Tue Sep 24 17:34:53 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 17:34:53 2013] [debug] 200 OK (0.033892s, 29.505/s).
+[Tue Sep 24 17:35:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 17:35:28 2013] [debug] GET "/living".
+[Tue Sep 24 17:35:28 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "living".
+[Tue Sep 24 17:35:28 2013] [debug] Rendering template "home/living.html.ep".
+[Tue Sep 24 17:35:28 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 17:35:28 2013] [debug] 200 OK (0.032331s, 30.930/s).
+[Tue Sep 24 17:35:31 2013] [debug] GET "/dining".
+[Tue Sep 24 17:35:31 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "dining".
+[Tue Sep 24 17:35:31 2013] [debug] Rendering template "home/dining.html.ep".
+[Tue Sep 24 17:35:31 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 17:35:31 2013] [debug] 200 OK (0.016163s, 61.870/s).
+[Tue Sep 24 17:40:33 2013] [debug] GET "/".
+[Tue Sep 24 17:40:33 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 17:40:33 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 24 17:40:33 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 17:40:33 2013] [debug] 200 OK (0.008726s, 114.600/s).
+[Tue Sep 24 17:40:43 2013] [debug] GET "/bedroom".
+[Tue Sep 24 17:40:43 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 17:40:43 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 24 17:40:43 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 17:40:43 2013] [debug] 200 OK (0.020378s, 49.073/s).
+[Tue Sep 24 17:40:45 2013] [debug] GET "/dining".
+[Tue Sep 24 17:40:45 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "dining".
+[Tue Sep 24 17:40:45 2013] [debug] Rendering cached template "home/dining.html.ep".
+[Tue Sep 24 17:40:45 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 17:40:45 2013] [debug] 200 OK (0.002347s, 426.076/s).
+[Tue Sep 24 17:40:52 2013] [debug] GET "/area".
+[Tue Sep 24 17:40:52 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 24 17:40:52 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 24 17:40:52 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 17:40:52 2013] [debug] 200 OK (0.008641s, 115.727/s).
+[Tue Sep 24 17:40:56 2013] [debug] GET "/contact".
+[Tue Sep 24 17:40:56 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "contact".
+[Tue Sep 24 17:40:56 2013] [debug] Rendering template "home/contact.html.ep".
+[Tue Sep 24 17:40:56 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 17:40:56 2013] [debug] 200 OK (0.009377s, 106.644/s).
+[Tue Sep 24 17:41:00 2013] [debug] GET "/".
+[Tue Sep 24 17:41:00 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 17:41:00 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep 24 17:41:00 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 17:41:00 2013] [debug] 200 OK (0.001742s, 574.053/s).
+[Tue Sep 24 17:46:51 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 17:46:51 2013] [debug] GET "/bedroom".
+[Tue Sep 24 17:46:51 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 17:46:51 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 24 17:46:51 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 17:46:51 2013] [debug] 200 OK (0.029430s, 33.979/s).
+[Tue Sep 24 17:48:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Sep 24 17:48:26 2013] [debug] GET "/bedroom".
+[Tue Sep 24 17:48:26 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "bedroom".
+[Tue Sep 24 17:48:26 2013] [debug] Rendering template "home/bedroom.html.ep".
+[Tue Sep 24 17:48:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Sep 24 17:48:26 2013] [debug] 200 OK (0.030180s, 33.135/s).
+[Tue Sep 24 17:55:38 2013] [debug] GET "/".
+[Tue Sep 24 17:55:38 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 17:55:38 2013] [debug] Rendering template "home/welcome.html.ep".
+[Tue Sep 24 17:55:38 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 17:55:38 2013] [debug] 200 OK (0.009418s, 106.180/s).
+[Tue Sep 24 17:56:22 2013] [debug] GET "/gallery".
+[Tue Sep 24 17:56:22 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "gallery".
+[Tue Sep 24 17:56:22 2013] [debug] Rendering template "home/gallery.html.ep".
+[Tue Sep 24 17:56:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 17:56:22 2013] [debug] 200 OK (0.010059s, 99.413/s).
+[Tue Sep 24 17:56:22 2013] [debug] GET "/img/thumbs/circle_table.jpg".
+[Tue Sep 24 17:56:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Sep 24 17:56:22 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Sep 24 17:56:22 2013] [debug] Rendering inline template.
+[Tue Sep 24 17:56:22 2013] [debug] Rendering inline template.
+[Tue Sep 24 17:56:22 2013] [debug] 404 Not Found (0.019972s, 50.070/s).

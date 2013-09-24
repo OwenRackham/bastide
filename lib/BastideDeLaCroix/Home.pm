@@ -25,7 +25,7 @@ sub bedroom {
 
   # Render template "home/welcome.html.ep" with message
   $self->render(
-    message => "The Bedrooms",
+    message => "En-Suite bedrooms",
     bg_img => '../img/bg_img.jpg');
 }
 
@@ -43,7 +43,7 @@ sub living {
 
   # Render template "home/welcome.html.ep" with message
   $self->render(
-    message => "The Living Rooms",
+    message => "Living area",
     bg_img => '../img/bg_img.jpg');
 }
 
@@ -52,7 +52,16 @@ sub garden {
 
   # Render template "home/welcome.html.ep" with message
   $self->render(
-    message => "The Gardens",
+    message => "Gardens and Terraces",
+    bg_img => '../img/bg_img.jpg');
+}
+
+sub leisure {
+  my $self = shift;
+
+  # Render template "home/welcome.html.ep" with message
+  $self->render(
+    message => "Leisure facilities",
     bg_img => '../img/bg_img.jpg');
 }
 
@@ -61,7 +70,7 @@ sub other {
 
   # Render template "home/welcome.html.ep" with message
   $self->render(
-    message => "Other Information",
+    message => "Services",
     bg_img => '../img/bg_img.jpg');
 }
 
@@ -70,7 +79,7 @@ sub dining {
 
   # Render template "home/welcome.html.ep" with message
   $self->render(
-    message => "The Dining Rooms",
+    message => "Dining",
     bg_img => '../img/bg_img.jpg');
 }
 

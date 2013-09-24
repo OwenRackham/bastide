@@ -28,13 +28,14 @@
 		<div class="tabbable tabs-left">
 			<ul class="nav nav-tabs">
 				<li class="active">
-					<a href="#lA" data-toggle="tab">Main Bathroom</a>
+					<a href="#lA" data-toggle="tab">Tennis</a>
 				</li>
 				<li>
-					<a href="#lB" data-toggle="tab">Garden Bathroom</a>
+					<a href="#lB" data-toggle="tab">Sailing</a>
 				</li>
 				<li>
-					<a href="#lC" data-toggle="tab">Downstairs Bathroom</a>
+					<a href="#lC" data-toggle="tab">Swimming</a>
+				</li>
 				</li>
 			</ul>
 			<div class="tab-content">
