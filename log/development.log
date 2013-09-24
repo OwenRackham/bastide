@@ -3246,3 +3246,33 @@
 [Tue Sep 24 17:56:22 2013] [debug] Rendering inline template.
 [Tue Sep 24 17:56:22 2013] [debug] Rendering inline template.
 [Tue Sep 24 17:56:22 2013] [debug] 404 Not Found (0.019972s, 50.070/s).
+[Tue Sep 24 18:06:32 2013] [debug] GET "/area".
+[Tue Sep 24 18:06:32 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "area".
+[Tue Sep 24 18:06:32 2013] [debug] Rendering template "home/area.html.ep".
+[Tue Sep 24 18:06:32 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 18:06:32 2013] [debug] 200 OK (0.009934s, 100.664/s).
+[Tue Sep 24 18:06:39 2013] [debug] GET "/".
+[Tue Sep 24 18:06:39 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 18:06:39 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep 24 18:06:39 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 18:06:39 2013] [debug] 200 OK (0.001657s, 603.500/s).
+[Tue Sep 24 18:06:45 2013] [debug] GET "/leisure".
+[Tue Sep 24 18:06:45 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "leisure".
+[Tue Sep 24 18:06:45 2013] [debug] Rendering template "home/leisure.html.ep".
+[Tue Sep 24 18:06:45 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 18:06:45 2013] [debug] 200 OK (0.017869s, 55.963/s).
+[Tue Sep 24 20:43:29 2013] [debug] GET "/".
+[Tue Sep 24 20:43:29 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 20:43:29 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep 24 20:43:29 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 20:43:29 2013] [debug] 200 OK (0.024522s, 40.780/s).
+[Tue Sep 24 21:06:26 2013] [debug] GET "/".
+[Tue Sep 24 21:06:26 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "welcome".
+[Tue Sep 24 21:06:26 2013] [debug] Rendering cached template "home/welcome.html.ep".
+[Tue Sep 24 21:06:26 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 21:06:26 2013] [debug] 200 OK (0.001673s, 597.729/s).
+[Tue Sep 24 21:06:30 2013] [debug] GET "/leisure".
+[Tue Sep 24 21:06:30 2013] [debug] Routing to controller "BastideDeLaCroix::Home" and action "leisure".
+[Tue Sep 24 21:06:30 2013] [debug] Rendering cached template "home/leisure.html.ep".
+[Tue Sep 24 21:06:30 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Sep 24 21:06:30 2013] [debug] 200 OK (0.003025s, 330.579/s).
