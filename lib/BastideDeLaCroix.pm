@@ -19,6 +19,7 @@ sub startup {
   $r->get('/area')->to('home#area');
   $r->get('/bedroom')->to('home#bedroom');
   $r->get('/living')->to('home#living');
+  $r->get('/leisure')->to('home#leisure');
   $r->get('/dining')->to('home#dining');
   $r->get('/garden')->to('home#garden');
   $r->get('/bathroom')->to('home#bathroom');

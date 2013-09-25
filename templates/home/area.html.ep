@@ -16,7 +16,7 @@ $(document).ready(function() {
 <!-- /container -->
 <!-- Example row of columns -->
 <div class="row marketing">
-<iframe width="100%" height="300px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Saint-Tropez,+France&amp;aq=0&amp;oq=Saint-Tropez&amp;sll=43.23945,6.58493&amp;sspn=0.174076,0.363579&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Saint-Tropez,+Var,+Provence-Alpes-C%C3%B4te+d'Azur,+France&amp;z=13&amp;ll=43.270065,6.639578&amp;output=embed"></iframe><br /><small><a href="https://www.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Saint-Tropez,+France&amp;aq=0&amp;oq=Saint-Tropez&amp;sll=43.23945,6.58493&amp;sspn=0.174076,0.363579&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Saint-Tropez,+Var,+Provence-Alpes-C%C3%B4te+d'Azur,+France&amp;z=13&amp;ll=43.270065,6.639578" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
 </div>
 
 <div class="row text-center">
@@ -27,7 +27,7 @@ $(document).ready(function() {
 		<div class="col-lg-6 text-center">
 		 	<img class="img-circle" height="300px" src="img/circle_grounds.jpg">
 		</div>
-		<div class="col-lg-6">
+		<div class="col-lg-6 trans">
 			<a id="findout"> </a>
 			<h2>St Tropez</h2>
 			<p>
@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <div class="row marketing">
 	<div class="container">
-		<div class="col-lg-6">
+		<div class="col-lg-6 trans">
 			<a id="findout"> </a>
 			<h2>Some other place</h2>
 			<p>
@@ -63,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<div class="col-lg-6 text-center">
 		 	<img class="img-circle" height="300px" src="img/circle_table.jpg">
 		</div>
-		<div class="col-lg-6">
+		<div class="col-lg-6 trans">
 			<a id="findout"> </a>
 			<h2>Yep there is more.</h2>
 			<p>
