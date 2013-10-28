@@ -47,7 +47,6 @@
 									<div class="row text-center">
 										<img class="img-rounded" height="50px" src="img/garden/thumbs/110616_0241.gif" onmouseover='changeImage("img/garden/low/110616_0241.jpg","1F_img");'>
 										<img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0008-2.gif" onmouseover='changeImage("img/garden/low/DSC_0008-2.jpg","1F_img");'>
-										<img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0032.gif" onmouseover='changeImage("img/garden/low/DSC_0032.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0032.gif" onmouseover='changeImage("img/garden/low/DSC_0032.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0128.gif" onmouseover='changeImage("img/garden/low/DSC_0128.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0170.gif" onmouseover='changeImage("img/garden/low/DSC_0170.jpg","1F_img");'>
