@@ -12,8 +12,8 @@
 		});
 	</script>
 <div class="row" >
-<div class="container" >
-        <div class="camera_wrap camera_magenta_skin" id="camera_wrap" style="height:80%;>
+<div class="container" style="height:80%>
+        <div class="camera_wrap camera_magenta_skin" id="camera_wrap" ;>
             <div data-thumb="img/gallery/110616_0241.gif" data-src="img/gallery/110616_0241.jpg">
             </div>
             <div data-thumb="img/gallery/1106160252.gif" data-src="img/gallery/1106160252.jpg">
