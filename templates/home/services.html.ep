@@ -45,12 +45,7 @@
 										<h2>Services</h2>
 										<p><%== $service_text %></p>
 									</div>
-									<div class="row text-center">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-									</div>
-								</div>
+                                </div>
 							</div>
 						</div>
 					</div>

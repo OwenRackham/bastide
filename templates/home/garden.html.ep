@@ -48,14 +48,10 @@
 										<img class="img-rounded" height="50px" src="img/garden/thumbs/110616_0241.gif" onmouseover='changeImage("img/garden/low/110616_0241.jpg","1F_img");'>
 										<img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0008-2.gif" onmouseover='changeImage("img/garden/low/DSC_0008-2.jpg","1F_img");'>
 										<img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0032.gif" onmouseover='changeImage("img/garden/low/DSC_0032.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0043.gif" onmouseover='changeImage("img/garden/low/DSC_0043.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0128.gif" onmouseover='changeImage("img/garden/low/DSC_0128.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0032.gif" onmouseover='changeImage("img/garden/low/DSC_0032.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0043.gif" onmouseover='changeImage("img/garden/low/DSC_0043.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0128.gif" onmouseover='changeImage("img/garden/low/DSC_0128.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0170.gif" onmouseover='changeImage("img/garden/low/DSC_0170.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/IMG_1556.gif" onmouseover='changeImage("img/garden/low/IMG_1556.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/saunier-lavender-0610-2.gif" onmouseover='changeImage("img/garden/low/saunier-lavender-0610-2.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/110616_0340.gif" onmouseover='changeImage("img/garden/low/110616_0340.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0013.gif" onmouseover='changeImage("img/garden/low/DSC_0013.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0022.gif" onmouseover='changeImage("img/garden/low/DSC_0022.jpg","1F_img");'>
@@ -68,9 +64,7 @@
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0005.gif" onmouseover='changeImage("img/garden/low/DSC_0005.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0016.gif" onmouseover='changeImage("img/garden/low/DSC_0016.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0024.gif" onmouseover='changeImage("img/garden/low/DSC_0024.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0041.gif" onmouseover='changeImage("img/garden/low/DSC_0041.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0045.gif" onmouseover='changeImage("img/garden/low/DSC_0045.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0142.gif" onmouseover='changeImage("img/garden/low/DSC_0142.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/IMG_1549.gif" onmouseover='changeImage("img/garden/low/IMG_1549.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/saunier-lavender-0610-1.gif" onmouseover='changeImage("img/garden/low/saunier-lavender-0610-1.jpg","1F_img");'>
                                         <br> <i> mouse over to view </i>

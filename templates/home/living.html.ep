@@ -47,12 +47,9 @@
 									</div>
 									<div class="row text-center">
 										<img class="img-rounded" height="50px" src="img/lounge/thumbs/1106160252.gif" onmouseover='changeImage("img/lounge/low/1106160252.jpg","1F_img");'>
-										<img class="img-rounded" height="50px" src="img/lounge/thumbs/DSC_0053.gif" onmouseover='changeImage("img/lounge/low/DSC_0053.jpg","1F_img");'>
 										<img class="img-rounded" height="50px" src="img/lounge/thumbs/DSC_0057.gif" onmouseover='changeImage("img/lounge/low/DSC_0057.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/lounge/thumbs/DSC_0161.gif" onmouseover='changeImage("img/lounge/low/DSC_0161.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/lounge/thumbs/DSC_0173.gif" onmouseover='changeImage("img/lounge/low/DSC_0173.jpg","1F_img");'>
 										<img class="img-rounded" height="50px" src="img/lounge/thumbs/DSC_0195.gif" onmouseover='changeImage("img/lounge/low/DSC_0195.jpg","1F_img");'>
-										<img class="img-rounded" height="50px" src="img/lounge/thumbs/1106160281.gif" onmouseover='changeImage("img/lounge/low/1106160281.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/lounge/thumbs/DSC_0055.gif" onmouseover='changeImage("img/lounge/low/DSC_0055.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/lounge/thumbs/DSC_0160.gif" onmouseover='changeImage("img/lounge/low/DSC_0160.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/lounge/thumbs/DSC_0162.gif" onmouseover='changeImage("img/lounge/low/DSC_0162.jpg","1F_img");'>
