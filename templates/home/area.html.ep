@@ -25,7 +25,7 @@ $(document).ready(function() {
 <div class="row marketing">
 	<div class="container">
 		<div class="col-lg-6 text-center">
-		 	<img class="img-circle" height="300px" src="img/surrounding/sunset-at-debarquement.jpg">
+		 	<img class="img-rounded" height="300px" src="img/surrounding/sunset-at-debarquement.jpg">
 		</div>
 		<div class="col-lg-6 trans">
 			<a id="findout"> </a>
@@ -46,7 +46,7 @@ $(document).ready(function() {
 			<p><%== $pane_2_text %></p>
             </div>
 		<div class="col-lg-6 text-center">
-		 	<img class="img-circle" height="300px" src="img/surrounding/Port-Grimaud.jpg">
+		 	<img class="img-rounded" height="300px" src="img/surrounding/Port-Grimaud.jpg">
 		</div>
 	</div>
 </div>
@@ -57,7 +57,7 @@ $(document).ready(function() {
 <div class="row marketing">
 	<div class="container">
 		<div class="col-lg-6 text-center">
-		 	<img class="img-circle" height="300px" src="img/surrounding/winter-in-St-Tropez.jpg">
+		 	<img class="img-rounded" height="300px" src="img/surrounding/winter-in-St-Tropez.jpg">
 		</div>
 		<div class="col-lg-6 trans">
 			<a id="findout"> </a>
