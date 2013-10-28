@@ -343,6 +343,8 @@ img {
 
 .img-rounded {
   border-radius: 6px;
+  max-width:500px;
+  max-height:350px;
 }
 
 .img-circle {

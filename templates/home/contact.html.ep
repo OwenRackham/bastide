@@ -17,7 +17,7 @@ $(document).ready(function() {
 	<div class="container">
 		<div class="col-lg-12 trans">
 			<a id="findout"> </a>
-			<h4>Please contact us with any questions or queries you may have, and to enquire about availability, tarifs and how to book.</h4>
+			<h4><%== $contact_text %></h4>
 			<p>
 		</div>
 	</div>
@@ -96,9 +96,9 @@ $(document).ready(function() {
 </div>
 <div class="col-lg-6">
 <h3>Call us</h3>
-<i class="icon-phone icon-large"></i> +33001101010110
+<i class="icon-phone icon-large"></i> <%== $contact_landline %>
 <br>
-<i class="icon-mobile-phone icon-large"></i> +3313242345235
+<i class="icon-mobile-phone icon-large"></i> <%== $contact_mobile %>
 <hr>
 
 </div>

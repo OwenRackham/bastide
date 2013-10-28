@@ -28,15 +28,8 @@
 		<div class="tabbable tabs-left">
 			<ul class="nav nav-tabs">
 				<li class="active">
-					<a href="#lA" data-toggle="tab">The Front Garden</a>
+					<a href="#lA" data-toggle="tab">Gardens and Terrace</a>
 				</li>
-				<li>
-					<a href="#lB" data-toggle="tab">The Back Garden</a>
-				</li>
-				<li>
-					<a href="#lC" data-toggle="tab">Sports</a>
-				</li>
-				
 			</ul>
 			<div class="tab-content">
 				<div class="tab-pane active" id="lA">
@@ -44,152 +37,45 @@
 						<div class="row marketing">
 							<div class="container">
 								<div class="col-lg-6 text-center">
-									<img class="img-rounded" height="500px" src="img/circle_grounds.jpg">
+									<img id="1F_img" class="img-rounded" height="500px" src="img/garden/low/110616_0241.jpg">
 								</div>
 								<div class="col-lg-6">
 									<div class="row">
 									<a id="findout"> </a>
-										<h2>The master suite</h2>
-										<p>
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-										</p>
+										<p><%== $garden_text %></p>
 									</div>
 									<div class="row text-center">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
+										<img class="img-rounded" height="50px" src="img/garden/thumbs/110616_0241.gif" onmouseover='changeImage("img/garden/low/110616_0241.jpg","1F_img");'>
+										<img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0008-2.gif" onmouseover='changeImage("img/garden/low/DSC_0008-2.jpg","1F_img");'>
+										<img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0032.gif" onmouseover='changeImage("img/garden/low/DSC_0032.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0043.gif" onmouseover='changeImage("img/garden/low/DSC_0043.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0128.gif" onmouseover='changeImage("img/garden/low/DSC_0128.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0032.gif" onmouseover='changeImage("img/garden/low/DSC_0032.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0043.gif" onmouseover='changeImage("img/garden/low/DSC_0043.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0128.gif" onmouseover='changeImage("img/garden/low/DSC_0128.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0170.gif" onmouseover='changeImage("img/garden/low/DSC_0170.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/IMG_1556.gif" onmouseover='changeImage("img/garden/low/IMG_1556.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/saunier-lavender-0610-2.gif" onmouseover='changeImage("img/garden/low/saunier-lavender-0610-2.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/110616_0340.gif" onmouseover='changeImage("img/garden/low/110616_0340.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0013.gif" onmouseover='changeImage("img/garden/low/DSC_0013.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0022.gif" onmouseover='changeImage("img/garden/low/DSC_0022.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0036.gif" onmouseover='changeImage("img/garden/low/DSC_0036.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0044.gif" onmouseover='changeImage("img/garden/low/DSC_0044.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0141.gif" onmouseover='changeImage("img/garden/low/DSC_0141.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0181.gif" onmouseover='changeImage("img/garden/low/DSC_0181.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/lounge_terrace_seating_edited-1.gif" onmouseover='changeImage("img/garden/low/lounge_terrace_seating_edited-1.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/saunier-rosebed-0610.gif" onmouseover='changeImage("img/garden/low/saunier-rosebed-0610.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0005.gif" onmouseover='changeImage("img/garden/low/DSC_0005.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0016.gif" onmouseover='changeImage("img/garden/low/DSC_0016.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0024.gif" onmouseover='changeImage("img/garden/low/DSC_0024.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0041.gif" onmouseover='changeImage("img/garden/low/DSC_0041.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0045.gif" onmouseover='changeImage("img/garden/low/DSC_0045.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0142.gif" onmouseover='changeImage("img/garden/low/DSC_0142.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/IMG_1549.gif" onmouseover='changeImage("img/garden/low/IMG_1549.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/saunier-lavender-0610-1.gif" onmouseover='changeImage("img/garden/low/saunier-lavender-0610-1.jpg","1F_img");'>
+                                        <br> <i> mouse over to view </i>
 									</div>
 								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="tab-pane" id="lB">
-					<div class="row">
-<div class="row marketing">
-							<div class="container">
-								<div class="col-lg-6 text-center">
-									<img class="img-rounded" height="500px" src="img/circle_grounds.jpg">
-								</div>
-								<div class="col-lg-6">
-									<div class="row">
-									<a id="findout"> </a>
-										<h2>Bedroom 1</h2>
-										<p>
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-										</p>
-									</div>
-									<div class="row text-center">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="tab-pane" id="lC">
-					<div class="row">
-<div class="row marketing">
-							<div class="container">
-								<div class="col-lg-6 text-center">
-									<img class="img-rounded" height="500px" src="img/circle_grounds.jpg">
-								</div>
-								<div class="col-lg-6">
-									<div class="row">
-									<a id="findout"> </a>
-										<h2>Bedroom 2</h2>
-										<p>
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-										</p>
-									</div>
-									<div class="row text-center">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="tab-pane" id="lD">
-					<div class="row">
-<div class="row marketing">
-							<div class="container">
-								<div class="col-lg-6 text-center">
-									<img class="img-rounded" height="500px" src="img/circle_grounds.jpg">
-								</div>
-								<div class="col-lg-6">
-									<div class="row">
-									<a id="findout"> </a>
-										<h2>Bedroom 3</h2>
-										<p>
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-										</p>
-									</div>
-									<div class="row text-center">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="tab-pane" id="lE">
-					<div class="row">
-<div class="row marketing">
-							<div class="container">
-								<div class="col-lg-6 text-center">
-									<img class="img-rounded" height="500px" src="img/circle_grounds.jpg">
-								</div>
-								<div class="col-lg-6">
-									<div class="row">
-									<a id="findout"> </a>
-										<h2>Bedroom 4</h2>
-										<p>
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-										</p>
-									</div>
-									<div class="row text-center">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="tab-pane" id="lF">
-					<div class="row">
-<div class="row marketing">
-							<div class="container">
-								<div class="col-lg-6 text-center">
-									<img class="img-rounded" height="500px" src="img/circle_grounds.jpg">
-								</div>
-								<div class="col-lg-6">
-									<div class="row">
-									<a id="findout"> </a>
-										<h2>Bedroom 5</h2>
-										<p>
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-										</p>
-									</div>
-									<div class="row text-center">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-										<img class="img-rounded" height="150px" src="img/circle_grounds.jpg">
-									</div>
 								</div>
 							</div>
 						</div>

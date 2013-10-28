@@ -14,18 +14,91 @@
 <div class="row">
 <div class="container">
         <div class="camera_wrap camera_magenta_skin" id="camera_wrap">
-            <div data-thumb="img/thumbs/circle_table.jpg" data-src="img/circle_table.jpg">
+            <div data-thumb="img/gallery/110616_0241.gif" data-src="img/gallery/110616_0241.jpg">
             </div>
-            <div data-thumb="img/thumbs/circle_table.jpg" data-src="img/circle_table.jpg">
+            <div data-thumb="img/gallery/1106160252.gif" data-src="img/gallery/1106160252.jpg">
             </div>
-            <div data-thumb="img/thumbs/circle_table.jpg" data-src="img/circle_table.jpg">
+            <div data-thumb="img/gallery/110616_0260.gif" data-src="img/gallery/110616_0260.jpg">
             </div>
-            <div data-thumb="img/thumbs/circle_table.jpg" data-src="img/circle_table.jpg">
+            <div data-thumb="img/gallery/1106160281.gif" data-src="img/gallery/1106160281.jpg">
             </div>
-            <div data-thumb="img/thumbs/circle_table.jpg" data-src="img/circle_table.jpg">
+            <div data-thumb="img/gallery/110616_0283.gif" data-src="img/gallery/110616_0283.jpg">
             </div>
-            <div data-thumb="img/thumbs/circle_table.jpg" data-src="img/circle_table.jpg">
+            <div data-thumb="img/gallery/110616_0285.gif" data-src="img/gallery/110616_0285.jpg">
             </div>
+            <div data-thumb="img/gallery/110616_0286.gif" data-src="img/gallery/110616_0286.jpg">
+            </div>
+            <div data-thumb="img/gallery/110616_0340.gif" data-src="img/gallery/110616_0340.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0005.gif" data-src="img/gallery/DSC_0005.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0008-2.gif" data-src="img/gallery/DSC_0008-2.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0013-1.gif" data-src="img/gallery/DSC_0013-1.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0013.gif" data-src="img/gallery/DSC_0013.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0016.gif" data-src="img/gallery/DSC_0016.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0017.gif" data-src="img/gallery/DSC_0017.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0018-1.gif" data-src="img/gallery/DSC_0018-1.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0022.gif" data-src="img/gallery/DSC_0022.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0024.gif" data-src="img/gallery/DSC_0024.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0032.gif" data-src="img/gallery/DSC_0032.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0036.gif" data-src="img/gallery/DSC_0036.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0039.gif" data-src="img/gallery/DSC_0039.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0041.gif" data-src="img/gallery/DSC_0041.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0043.gif" data-src="img/gallery/DSC_0043.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0044.gif" data-src="img/gallery/DSC_0044.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0045.gif" data-src="img/gallery/DSC_0045.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0047.gif" data-src="img/gallery/DSC_0047.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0053.gif" data-src="img/gallery/DSC_0053.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0055.gif" data-src="img/gallery/DSC_0055.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0057.gif" data-src="img/gallery/DSC_0057.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0060.gif" data-src="img/gallery/DSC_0060.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0062.gif" data-src="img/gallery/DSC_0062.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0063.gif" data-src="img/gallery/DSC_0063.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0072.gif" data-src="img/gallery/DSC_0072.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0074.gif" data-src="img/gallery/DSC_0074.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0075.gif" data-src="img/gallery/DSC_0075.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0079.gif" data-src="img/gallery/DSC_0079.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0081.gif" data-src="img/gallery/DSC_0081.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0083.gif" data-src="img/gallery/DSC_0083.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0084.gif" data-src="img/gallery/DSC_0084.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0085.gif" data-src="img/gallery/DSC_0085.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0091.gif" data-src="img/gallery/DSC_0091.jpg">
+            </div>
+            <div data-thumb="img/gallery/DSC_0092.gif" data-src="img/gallery/DSC_0092.jpg">
+            </div>
+
+
+
         </div><!-- #camera_wrap_2 -->
     </div><!-- .fluid_container -->
     </div>

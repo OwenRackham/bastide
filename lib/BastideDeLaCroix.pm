@@ -24,6 +24,8 @@ sub startup {
   $r->get('/garden')->to('home#garden');
   $r->get('/bathroom')->to('home#bathroom');
   $r->get('/other')->to('home#other');
+  $r->get('/services')->to('home#services');
+  $r->get('/kitchen')->to('home#kitchen');
   
 }
 
