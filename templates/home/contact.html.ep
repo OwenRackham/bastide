@@ -30,7 +30,7 @@ $(document).ready(function() {
 <div class="row marketing">
 	<div class="container trans">
 		<div class="col-lg-6">
-<form class="form-horizontal">
+<form class="form-horizontal" action="MAILTO:villabastidedelacroix@gmail.com" method="post" enctype="text/plain">
 <fieldset>
 
 
