@@ -30,7 +30,7 @@ $(document).ready(function() {
 <div class="row marketing">
 	<div class="container trans">
 		<div class="col-lg-6">
-<form class="form-horizontal" action="MAILTO:villabastidedelacroix@gmail.com" method="post" enctype="text/plain">
+<form class="form-horizontal" action="MAILTO:villabastidedelacroix@gmail.com?subject=Villa Bastide de la Croix Enquiry" method="post" enctype="text/plain">
 <fieldset>
 
 
@@ -87,6 +87,7 @@ $(document).ready(function() {
   <label class="control-label" for="send"></label>
   <div class="controls">
     <button id="send" name="send" class="btn btn-primary">Send</button>
+    <h3> email us at villabastidedelacroix@gmail.com </h3>
   </div>
 </div>
 <br>
