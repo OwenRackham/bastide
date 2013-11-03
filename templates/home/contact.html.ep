@@ -87,7 +87,7 @@ $(document).ready(function() {
   <label class="control-label" for="send"></label>
   <div class="controls">
     <button id="send" name="send" class="btn btn-primary">Send</button>
-    <i> or use villabastidedelacroix@gmail.com </i>
+    &thinsp; &thinsp; &thinsp;<i> or use villabastidedelacroix@gmail.com </i>
   </div>
 </div>
 <br>
