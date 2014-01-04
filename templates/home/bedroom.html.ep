@@ -65,11 +65,11 @@
 									</div>
 									<div class="row text-center">
 										<img class="img-rounded" height="50px" src="img/masterbedroom/thumbs/DSC_0127.gif" onmouseover='changeImage("img/masterbedroom/low/DSC_0123.jpg","1A_img");'>
-										<img class="img-rounded" height="50px" src="img/masterbedroom/thumbs/DSC_0133.gif" onmouseover='changeImage("img/masterbedroom/low/DSC_0133.jpg","1A_img");'>
                                         <img class="img-rounded" height="50px" src="img/masterbedroom/thumbs/DSC_0126.gif" onmouseover='changeImage("img/masterbedroom/low/DSC_0126.jpg","1A_img");'>
-                                        <img class="img-rounded" height="50px" src="img/masterbedroom/thumbs/DSC_0135.gif" onmouseover='changeImage("img/masterbedroom/low/DSC_0135.jpg","1A_img");'>
                                         <img class="img-rounded" height="50px" src="img/masterbedroom/thumbs/DSC_0128.gif" onmouseover='changeImage("img/masterbedroom/low/DSC_0128.jpg","1A_img");'>
                                         <img class="img-rounded" height="50px" src="img/masterbedroom/thumbs/DSC_0132.gif" onmouseover='changeImage("img/masterbedroom/low/DSC_0132.jpg","1A_img");'>
+                                        <img class="img-rounded" height="50px" src="img/masterbedroom/thumbs/DSC_0133.gif" onmouseover='changeImage("img/masterbedroom/low/DSC_0133.jpg","1A_img");'>
+                                        <img class="img-rounded" height="50px" src="img/masterbedroom/thumbs/DSC_0135.gif" onmouseover='changeImage("img/masterbedroom/low/DSC_0135.jpg","1A_img");'>                                        
                                         <br> <i> mouse over to view </i>
 									</div>
 								</div>
@@ -91,11 +91,12 @@
 										<p> <%== $bed2_text %></p>
 									</div>
 									<div class="row text-center">
-										<img class="img-rounded" height="50px" src="img/bedroom2/thumbs/DSC_0097.gif" onmouseover='changeImage("img/bedroom2/low/DSC_0097.jpg","1B_img");'>
-										<img class="img-rounded" height="50px" src="img/bedroom2/thumbs/DSC_0101.gif" onmouseover='changeImage("img/bedroom2/low/DSC_0101.jpg","1B_img");'>
-                                        <img class="img-rounded" height="50px" src="img/bedroom2/thumbs/DSC_0105.gif" onmouseover='changeImage("img/bedroom2/low/DSC_0105.jpg","1B_img");'>
+										<img class="img-rounded" height="50px" src="img/bedroom2/thumbs/DSC_0105.gif" onmouseover='changeImage("img/bedroom2/low/DSC_0105.jpg","1B_img");'>
                                         <img class="img-rounded" height="50px" src="img/bedroom2/thumbs/DSC_0115.gif" onmouseover='changeImage("img/bedroom2/low/DSC_0115.jpg","1B_img");'>
                                         <img class="img-rounded" height="50px" src="img/bedroom2/thumbs/DSC_0118.gif" onmouseover='changeImage("img/bedroom2/low/DSC_0118.jpg","1B_img");'>
+                                        <img class="img-rounded" height="50px" src="img/bedroom2/thumbs/DSC_0097.gif" onmouseover='changeImage("img/bedroom2/low/DSC_0097.jpg","1B_img");'>
+										<img class="img-rounded" height="50px" src="img/bedroom2/thumbs/DSC_0101.gif" onmouseover='changeImage("img/bedroom2/low/DSC_0101.jpg","1B_img");'>
+                                       
                                         <br> <i> mouse over to view </i>
 									</div>
 								</div>
@@ -169,12 +170,13 @@
 										<p> <%== $bed5_text %></p>
 									</div>
 									<div class="row text-center">
-										<img class="img-rounded" height="50px" src="img/bedroom5/thumbs/DSC_0092.gif" onmouseover='changeImage("img/bedroom5/low/DSC_0092.jpg","1E_img");'>
-										<img class="img-rounded" height="50px" src="img/bedroom5/thumbs/DSC_0094.gif" onmouseover='changeImage("img/bedroom5/low/DSC_0094.jpg","1E_img");'>
-                                        <img class="img-rounded" height="50px" src="img/bedroom5/thumbs/DSC_0147.gif" onmouseover='changeImage("img/bedroom5/low/DSC_0147.jpg","1E_img");'>
+										<img class="img-rounded" height="50px" src="img/bedroom5/thumbs/DSC_0147.gif" onmouseover='changeImage("img/bedroom5/low/DSC_0147.jpg","1E_img");'>
                                         <img class="img-rounded" height="50px" src="img/bedroom5/thumbs/DSC_0155.gif" onmouseover='changeImage("img/bedroom5/low/DSC_0155.jpg","1E_img");'>
                                         <img class="img-rounded" height="50px" src="img/bedroom5/thumbs/DSC_0156.gif" onmouseover='changeImage("img/bedroom5/low/DSC_0156.jpg","1E_img");'>
                                         <img class="img-rounded" height="50px" src="img/bedroom5/thumbs/DSC_0157.gif" onmouseover='changeImage("img/bedroom5/low/DSC_0157.jpg","1E_img");'>
+                                        <img class="img-rounded" height="50px" src="img/bedroom5/thumbs/DSC_0092.gif" onmouseover='changeImage("img/bedroom5/low/DSC_0092.jpg","1E_img");'>
+										<img class="img-rounded" height="50px" src="img/bedroom5/thumbs/DSC_0094.gif" onmouseover='changeImage("img/bedroom5/low/DSC_0094.jpg","1E_img");'>
+                                        
                                         <br> <i> mouse over to view </i>
 									</div>
 								</div>
@@ -197,9 +199,9 @@
 									</div>
 									<div class="row text-center">
 										<img class="img-rounded" height="50px" src="img/bedroom6/thumbs/DSC_0107.gif" onmouseover='changeImage("img/bedroom6/low/DSC_0107.jpg","1F_img");'>
-										<img class="img-rounded" height="50px" src="img/bedroom6/thumbs/DSC_0110.gif" onmouseover='changeImage("img/bedroom6/low/DSC_0110.jpg","1F_img");'>
 										<img class="img-rounded" height="50px" src="img/bedroom6/thumbs/DSC_0112.gif" onmouseover='changeImage("img/bedroom6/low/DSC_0112.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/bedroom6/thumbs/DSC_0113.gif" onmouseover='changeImage("img/bedroom6/low/DSC_0113.jpg","1F_img");'>
+										<img class="img-rounded" height="50px" src="img/bedroom6/thumbs/DSC_0110.gif" onmouseover='changeImage("img/bedroom6/low/DSC_0110.jpg","1F_img");'>                                        
                                         <br> <i> mouse over to view </i>
 									</div>
 								</div>
