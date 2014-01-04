@@ -45,21 +45,20 @@
 										<p><%== $garden_text %></p>
 									</div>
 									<div class="row text-center">
-										<img class="img-rounded" height="50px" src="img/garden/thumbs/110616_0241.gif" onmouseover='changeImage("img/garden/low/110616_0241.jpg","1F_img");'>
-										<img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0008-2.gif" onmouseover='changeImage("img/garden/low/DSC_0008-2.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0032.gif" onmouseover='changeImage("img/garden/low/DSC_0032.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0128.gif" onmouseover='changeImage("img/garden/low/DSC_0128.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0170.gif" onmouseover='changeImage("img/garden/low/DSC_0170.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/IMG_1556.gif" onmouseover='changeImage("img/garden/low/IMG_1556.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/110616_0340.gif" onmouseover='changeImage("img/garden/low/110616_0340.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0013.gif" onmouseover='changeImage("img/garden/low/DSC_0013.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0022.gif" onmouseover='changeImage("img/garden/low/DSC_0022.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0036.gif" onmouseover='changeImage("img/garden/low/DSC_0036.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0044.gif" onmouseover='changeImage("img/garden/low/DSC_0044.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0141.gif" onmouseover='changeImage("img/garden/low/DSC_0141.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0181.gif" onmouseover='changeImage("img/garden/low/DSC_0181.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/lounge_terrace_seating_edited-1.gif" onmouseover='changeImage("img/garden/low/lounge_terrace_seating_edited-1.jpg","1F_img");'>
-                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/saunier-rosebed-0610.gif" onmouseover='changeImage("img/garden/low/saunier-rosebed-0610.jpg","1F_img");'>
+										<img class="img-rounded" height="50px" alt="large garden" src="img/garden/thumbs/110616_0241.gif" onmouseover='changeImage("img/garden/low/110616_0241.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0032.gif" alt="sea views" onmouseover='changeImage("img/garden/low/DSC_0032.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0128.gif" alt="large gardens" onmouseover='changeImage("img/garden/low/DSC_0128.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0170.gif" alt="close to the sea" onmouseover='changeImage("img/garden/low/DSC_0170.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/IMG_1556.gif" alt="sunsets" onmouseover='changeImage("img/garden/low/IMG_1556.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/110616_0340.gif" alt="secluded" onmouseover='changeImage("img/garden/low/110616_0340.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0013.gif" alt="private garden" onmouseover='changeImage("img/garden/low/DSC_0013.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0022.gif" alt="large terrace" onmouseover='changeImage("img/garden/low/DSC_0022.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0036.gif" alt="swimming pool" onmouseover='changeImage("img/garden/low/DSC_0036.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0044.gif" alt="" onmouseover='changeImage("img/garden/low/DSC_0044.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0141.gif" alt="" onmouseover='changeImage("img/garden/low/DSC_0141.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0181.gif" alt="" onmouseover='changeImage("img/garden/low/DSC_0181.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/lounge_terrace_seating_edited-1.gif" alt="" onmouseover='changeImage("img/garden/low/lounge_terrace_seating_edited-1.jpg","1F_img");'>
+                                        <img class="img-rounded" height="50px" src="img/garden/thumbs/saunier-rosebed-0610.gif" alt="" onmouseover='changeImage("img/garden/low/saunier-rosebed-0610.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0005.gif" onmouseover='changeImage("img/garden/low/DSC_0005.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0016.gif" onmouseover='changeImage("img/garden/low/DSC_0016.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/garden/thumbs/DSC_0024.gif" onmouseover='changeImage("img/garden/low/DSC_0024.jpg","1F_img");'>

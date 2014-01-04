@@ -31,7 +31,7 @@ $(document).ready(function() {
 <div class="row marketing">
 	<div class="container">
 		<div class="col-lg-4 text-center">
-		 	<img class="img-circle" height="250px" src="img/circle_grounds.jpg">
+		 	<img class="img-circle" alt="villa with large grounds, swimming pool and sea views" height="250px" src="img/circle_grounds.jpg">
 		</div>
 		<div class="col-lg-8 trans">
 			<a id="findout"> </a>
@@ -52,7 +52,7 @@ $(document).ready(function() {
 			<p><%== $pane_3_text %></p>
 		</div>
 		<div class="col-lg-4 text-center">
-		 	<img class="img-circle" height="250px" src="img/circle_outdoor.jpg">
+		 	<img class="img-circle" alt="Private terrace for entertaining" height="250px" src="img/circle_outdoor.jpg">
 		</div>
 	</div>
 </div>
@@ -63,7 +63,7 @@ $(document).ready(function() {
 <div class="row marketing">
 	<div class="container">
 		<div class="col-lg-4 text-center">
-		 	<img class="img-circle" height="250px" src="img/circle_table.jpg">
+		 	<img class="img-circle" height="250px" alt="Luxury villa St Tropez with room for entertianing" src="img/circle_table.jpg">
 		</div>
 		<div class="col-lg-8 trans">
 			<a id="findout"> </a>

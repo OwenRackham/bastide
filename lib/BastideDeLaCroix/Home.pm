@@ -7,7 +7,7 @@ sub welcome {
 
   # Render template "home/welcome.html.ep" with message
   $self->render(
-    message => 'Welcome',
+    message => 'Welcome to our luxury villa near St Tropez',
     pane_1_header => 'The perfect holiday destination awaits you...',
     pane_1_text => '',
     pane_2_header => 'Beautiful surroundings.  Wonderful facilities.',
