@@ -5,13 +5,13 @@
 		$('#findbutton').localScroll({
 			duration : 800
 		});
-	}); 
+	});
 </script>
 
 <script>
 	$(document).ready(function() {
 		$('.carousel').carousel();
-	}); 
+	});
 </script>
 
 <div class="container">
@@ -43,12 +43,12 @@
 								<div class="col-lg-6">
 									<div class="row">
 									<a id="findout"> </a>
-										
+
 										<p><%== $leisure_text %></p>
 									</div>
 									<div class="row text-center">
 										<img class="img-rounded" height="50px" src="img/leisure/thumbs/110616_0260.gif" onmouseover='changeImage("img/leisure/low/110616_0260.jpg","1F_img");'>
-										<img class="img-rounded" height="50px" src="img/leisure/thumbs/DSC_0008-2.gif" onmouseover='changeImage("img/leisure/low/DSC_0008-2.jpg","1F_img");'>
+										<img class="img-rounded" height="50px" src="img/leisure/thumbs/DSC_0008-2.jpg" onmouseover='changeImage("img/leisure/low/DSC_0008-2.jpg","1F_img");'>
 										<img class="img-rounded" height="50px" src="img/leisure/thumbs/DSC_0018-1.gif" onmouseover='changeImage("img/leisure/low/DSC_0018-1.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/leisure/thumbs/DSC_0039.gif" onmouseover='changeImage("img/leisure/low/DSC_0039.jpg","1F_img");'>
                                         <img class="img-rounded" height="50px" src="img/leisure/thumbs/DSC_0047.gif" onmouseover='changeImage("img/leisure/low/DSC_0047.jpg","1F_img");'>
@@ -74,4 +74,3 @@
 		</p>
 	</div>
 </div>
-
